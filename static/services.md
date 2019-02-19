@@ -29,7 +29,7 @@ description: |
                   <div class="mb_20 mt_20"> 
                     <hr style="max-width:100%;width:45px; border:1px solid #fecd2a;">
                   </div>
-                <p class="p_16"> The Voyage Visa Assessment is designed to instantly determine if you are eligible to apply for a migration visa. The assessment takes only a few minutes to complete. It is easy to follow and your results are instant. The questions in the assessment have been specifically designed to act as a preliminary test for you to see if you meet the requirements for your visa.</p>
+                <p class="p_16"> The Aura Visa Assessment is designed to instantly determine if you are eligible to apply for a migration visa. The assessment takes only a few minutes to complete. It is easy to follow and your results are instant. The questions in the assessment have been specifically designed to act as a preliminary test for you to see if you meet the requirements for your visa.</p>
         </div>
         <div class="eight wide column">
             <img src="images/services-img2.jpg" class="ui image">

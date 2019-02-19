@@ -1,11 +1,11 @@
 name: ginvoicing.com
-url: https://www.ginvoicing.com
-title: "GInvoicing: GST Ready invoicing solution"
+url: https://www.auraimmigration.com
+title: "Immigration Consulting"
 author:
-  name: "GInvoicing"
-  email: support@ginvoicing.com
-description: "GInvoicing: GST Ready invoicing solution"
-copyright: "(c) GInvoicing, 2016"
+  name: "AuraImmigration"
+  email: support@auraimmigration.com
+description: "Immigration Consulting"
+copyright: "(c) Aura Immigration, 2018"
 encoding: utf-8
 timezone: Asia/Calcutta
 markdown: kramdown
@@ -56,7 +56,7 @@ related:
 
 # jekyll-feed
 feed:
-  title: GInvoicing.com
+  title: Auraimmigration.com
   subtitle: Business, TAX, GST Blog
   path: rss.xml
 
