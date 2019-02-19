@@ -9,7 +9,7 @@ copyright: "(c) GInvoicing, 2016"
 encoding: utf-8
 timezone: Asia/Calcutta
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 redcarpet:
   extensions:
     - no_intra_emphasis
