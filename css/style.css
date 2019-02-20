@@ -3,7 +3,6 @@
 main > header{background-color:#fff; position: relative;}
 /* main > header .ui.inverted.menu{background:transparent;font-family:'Open Sans',sans-serif} */
 main > header .ui.inverted.menu > .item > img{min-width:269px}
-
 main > header .ui.inverted.menu .active.item::after{display:none}
 main > header .ui.inverted.menu .active.item{background:none;border-radius:0;text-transform:uppercase}
 main > header .ui.inverted.menu .item::before{background:none}
@@ -18,14 +17,8 @@ main > header .item{text-transform:uppercase!important;border-radius:0!important
 .sign-in{font-size:16px}
 .sign-up-set{display:flex!important;flex-direction:row;justify-content:space-between}
 .sign-in span{display:inline-block;width:70%}
-.top-bar-menu{background-color: #17beb7;
-    padding: 20px 0;
-    border-top: 3px solid #fecd2a;
-    transition-duration: 0.4s;
-    transition-property: background-color, border-color;}
-.top-bar-menu p{
-    line-height: 1;
-}
+.top-bar-menu{background-color: #17beb7;padding: 20px 0;border-top: 3px solid #fecd2a;transition-duration: 0.4s;transition-property: background-color, border-color;}
+.top-bar-menu p{line-height: 1;}
     .top-bar-menu a{color:#fff;display:block;width:100%}
     .min-header{ background-color:#fff; border-bottom: 1px solid #eee; padding:0!important;position:fixed;top:0;z-index:9;width:100%;transition:.5s all;animation-name:min-menu;animation-duration:1s;padding:0 0 11px}
     /* .banner-txt{position:relative}
@@ -179,19 +172,8 @@ main > header .item{text-transform:uppercase!important;border-radius:0!important
     .bg-black::after{content:"";position:fixed;width:100%;height:100%;background-color:rgba(0,0,0,0.52);top:0;z-index:555555}
 .blog-banner{background:url(../images/blog-banner.jpg)no-repeat;  
     background-attachment: fixed!important}
-.blog-title,.blog-title-detail{
-    padding: 160px 0;
-
-}
-.blog-title h1,.blog-title-detail h1{  
-      font-weight: 300;
-    font-style: normal;
-    font-family: 'Robotolight', sans-serif;
-    color: #fff;
-    font-size: 60px;
-    line-height: 1.1;
-    letter-spacing: 0px;
-}
+.blog-title,.blog-title-detail{padding: 160px 0;}
+.blog-title h1,.blog-title-detail h1{font-weight: 300;font-style: normal;font-family: 'Robotolight', sans-serif;color: #fff;font-size: 60px;line-height: 1.1;letter-spacing: 0px;}
 /* .blog-title-detail h1{font-size:38px;line-height:34px;padding-right:15px;border-right:5px solid #ffffff;padding-top:8px;text-shadow:1px 1px 3px #000}
 .blog-title-detail{padding:98px 0 0}
 .blog-title-detail h1 small{display:block}
@@ -669,6 +651,9 @@ a.size-small{
     }
     .m_0{
     margin: 0!important;
+    }
+    div p{
+        margin-bottom: 0;
     }
     a{
         transition:.3s;
