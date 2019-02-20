@@ -27,7 +27,7 @@ main > header .item{text-transform:uppercase!important;border-radius:0!important
     line-height: 1;
 }
     .top-bar-menu a{color:#fff;display:block;width:100%}
-    .banner-txt{position:relative}
+    /* .banner-txt{position:relative}
     .banner-txt h1{font-size:70px;font-family:'Open Sans',sans-serif;color:#ff5722}
     .banner-txt > div{min-width:360px;padding-top:18px;position:relative;z-index:11111}
     .banner-txt > div h1,.banner-txt > div h2{margin:0}
@@ -121,7 +121,7 @@ main > header .item{text-transform:uppercase!important;border-radius:0!important
     .button-suggestion i{color:#fff}
     .suggession-button{border-top:1px solid rgba(255,255,255,0.21);padding-top:35px;margin:0 20px}
     .suggession-button a{color:#fff;font-size:41px;text-transform:uppercase}
-    .suggession-button a small{font-size:17px}
+    .suggession-button a small{font-size:17px} */
 
     .mobile-app img{width:100%}
     .mobile-app-bg{background: url(../images/android.jpg) no-repeat; background-size:cover;     background-size: cover;        color: #fff;  position: relative;     border-top: 6px solid #008d4c;
