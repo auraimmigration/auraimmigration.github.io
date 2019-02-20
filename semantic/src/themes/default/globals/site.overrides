@@ -1,6 +1,28 @@
 /*******************************
         Global Overrides
 *******************************/
+a.theme_yellow:hover{
+    text-decoration: none;
+    font-style: normal;
+    color: #27beb7;
+}
+a.theme_green:hover{
+    text-decoration: none;
+    font-style: normal;
+    color: #fecd2a;
+}
+.theme_green{
+    color: #17beb7;
+}
+.theme_bg_green{
+    background-color: #17beb7!important;
+}
+.theme_bg_yellow{
+    background-color: #fecd2a!important;
+}
+.theme_yellow{
+    color: #fecd2a;
+}
 .top-bar-menu{
         color:#fff;
 }

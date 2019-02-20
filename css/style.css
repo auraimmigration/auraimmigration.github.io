@@ -27,6 +27,7 @@ main > header .item{text-transform:uppercase!important;border-radius:0!important
     line-height: 1;
 }
     .top-bar-menu a{color:#fff;display:block;width:100%}
+    .min-header{ background-color:#fff; padding:0!important;position:fixed;top:0;z-index:9;width:100%;transition:.5s all;animation-name:min-menu;animation-duration:1s;padding:0 0 11px}
     /* .banner-txt{position:relative}
     .banner-txt h1{font-size:70px;font-family:'Open Sans',sans-serif;color:#ff5722}
     .banner-txt > div{min-width:360px;padding-top:18px;position:relative;z-index:11111}
@@ -75,7 +76,7 @@ main > header .item{text-transform:uppercase!important;border-radius:0!important
     .green-pettern::before{content:"";width:99%;height:80%;border:1px solid rgba(255,255,255,0.33);display:block;top:0;bottom:0;position:absolute;left:0;right:0;margin:auto}
     .featured_style h2{padding-bottom:0;margin-bottom:0}
     .featured_style h3{margin-top:0;text-align:center;color:#fff;text-transform:uppercase;font-size:2.5em;font-family:'Roboto Condensed',sans-serif;font-weight:300}
-    .min-header{ background-color:#fff; padding:0!important;position:fixed;top:0;z-index:9;width:100%;transition:.5s all;animation-name:min-menu;animation-duration:1s;padding:0 0 11px}
+   
     .min-header .menu-responsive{margin-top:0!important}
     .min-header .logo{max-height:45px;padding-top:7px}
     .min-header .c-padding{padding-top:0}
@@ -545,18 +546,6 @@ a {
 .learn-more a {
     transition: 0.5s all;
 }
-.theme_green{
-    color: #17beb7;
-}
-.theme_bg_green{
-    background-color: #17beb7!important;
-}
-.theme_bg_yellow{
-    background-color: #fecd2a!important;
-}
-.theme_yellow{
-    color: #fecd2a;
-}
 .circle_img {
     border-radius: 50%;
     height: 75px;
@@ -926,16 +915,7 @@ body {
     line-height: 0.9;
     letter-spacing: 0px;
     }
-    a.theme_yellow:hover{
-        text-decoration: none;
-        font-style: normal;
-        color: #27beb7;
-    }
-    a.theme_green:hover{
-        text-decoration: none;
-        font-style: normal;
-        color: #fecd2a;
-    }
+
     .more_info a i{
         font-size: 12px;
         font-weight: 400;
