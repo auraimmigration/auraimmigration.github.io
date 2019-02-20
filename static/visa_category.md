@@ -148,7 +148,7 @@ description: |
                                 </div>
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
-                                                <a class="theme_green" href="#">VWork Permit</a></h4>
+                                                <a class="theme_green" href="#">Work Permit</a></h4>
                                             <p class="p_16 mt_20">Migrate as a skilled worker</p>
                                 </div>
                                 <div class="more_info mb_20">

@@ -17,7 +17,7 @@ description: |
                </div>
                <div class="pricing_div">
                   <div class="p_16 pt_40">Consultant fee: $400</div>
-                  <p><a href="#" class="button_style1 mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
+                  <p><a href="#" class="button_style1 size-medium mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
                </div>
             </div>
          </div>
@@ -28,7 +28,7 @@ description: |
                </div>
                <div class="pricing_div">
                   <div class="p_16 pt_40">Consultant fee: $400</div>
-                  <p><a href="#" class="button_style1 mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
+                  <p><a href="#" class="button_style1 size-medium mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
                </div>
             </div>
          </div>
@@ -39,7 +39,7 @@ description: |
                </div>
                <div class="pricing_div">
                   <div class="p_16 pt_40">Consultant fee: $400</div>
-                  <p><a href="#" class="button_style1 mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
+                  <p><a href="#" class="button_style1 size-medium mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
                </div>
             </div>
          </div>
@@ -50,7 +50,7 @@ description: |
                </div>
                <div class="pricing_div">
                   <div class="p_16 pt_40">Consultant fee: $400</div>
-                  <p><a href="#" class="button_style1 mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
+                  <p><a href="#" class="button_style1 size-medium mb_10 mt_20 mb_30 ">ORDER NOW</a></p>
                </div>
             </div>
          </div>
