@@ -772,6 +772,9 @@ body {
         text-decoration: none;
     }
     /* header */
+    .aura-link div.menu a.item.theme_green {
+        display: none;
+    }
     .top_head_bar{
         background-color: #27beb7;
         color: #fff;
