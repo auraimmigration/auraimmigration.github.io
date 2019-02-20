@@ -563,8 +563,8 @@ a.size-medium{
 .mobile-slide img{width: 100%; max-width: 231px; margin-top:30px !important;}
 /* css aura */
 body {
-
-    font-family: 'robotoregular',sans-serif;
+/* 
+    font-family: 'robotoregular',sans-serif; */
     font-size: 14px;
     line-height: 1.42857143;
     color: #434f53;
