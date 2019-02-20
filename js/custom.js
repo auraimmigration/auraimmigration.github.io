@@ -319,6 +319,23 @@
 
 jQuery(document).ready(function($) {
 
+    $(".top-move").click(function (e) {
+        $("html, body").animate({scrollTop: 0}, "slow");
+        e.preventDefault();
+    });
+
+
+    $(".top-move").click(function (e) {
+        $("html, body").animate({scrollTop: 0}, "slow");
+        e.preventDefault();
+    });
+
+
+    $(".mobile-menu").click(function(e){
+        $(this).prev(".menu-responsive").toggleClass("m-show");
+        e.preventDefault();
+    });
+
     function minheader() {
         var wd = $(window).scrollTop();
         if ($(window).width() > 768) {
