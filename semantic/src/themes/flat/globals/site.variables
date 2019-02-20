@@ -55,7 +55,7 @@
 
 @bodyBackground      : #FCFCFC;
 @fontSize            : 14px;
-@textColor           : rgba(0, 0, 0, 0.8);
+@textColor           : #434f53;
 
 @headerMargin        : 1em 0em 1rem;
 @paragraphMargin     : 0em 0em 1em;
