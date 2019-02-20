@@ -13,6 +13,7 @@ a.theme_green:hover{
 }
 .theme_green{
     color: @green;
+    
 }
 .theme_bg_green{
     background-color: @green!important;

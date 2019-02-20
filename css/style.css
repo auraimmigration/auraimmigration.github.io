@@ -1,7 +1,7 @@
-/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600";
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'); */
+/* @import "https://fonts.googleapis.com/css?family=Open+Sans:300,400,600"; */
+/* @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700'); */
 main > header{background-color:#fff; position: relative;}
-main > header .ui.inverted.menu{background:transparent;font-family:'Open Sans',sans-serif}
+/* main > header .ui.inverted.menu{background:transparent;font-family:'Open Sans',sans-serif} */
 main > header .ui.inverted.menu > .item > img{min-width:269px}
 
 main > header .ui.inverted.menu .active.item::after{display:none}
@@ -27,7 +27,7 @@ main > header .item{text-transform:uppercase!important;border-radius:0!important
     line-height: 1;
 }
     .top-bar-menu a{color:#fff;display:block;width:100%}
-    .min-header{ background-color:#fff; padding:0!important;position:fixed;top:0;z-index:9;width:100%;transition:.5s all;animation-name:min-menu;animation-duration:1s;padding:0 0 11px}
+    .min-header{ background-color:#fff; border-bottom: 1px solid #eee; padding:0!important;position:fixed;top:0;z-index:9;width:100%;transition:.5s all;animation-name:min-menu;animation-duration:1s;padding:0 0 11px}
     /* .banner-txt{position:relative}
     .banner-txt h1{font-size:70px;font-family:'Open Sans',sans-serif;color:#ff5722}
     .banner-txt > div{min-width:360px;padding-top:18px;position:relative;z-index:11111}
@@ -527,6 +527,11 @@ a.size-medium{
     min-width: 180px;
     padding: 17px 15px;
 }
+a.size-small{
+    font-size: 15px;
+    min-width: 160px;
+    padding: 17px 15px;
+}
 .gray_bg{
  background-color: #f1f4f6;
 }
@@ -574,6 +579,15 @@ a.size-medium{
     line-height: 1.1;
     letter-spacing: 0px;
  }
+ .p_13 {
+    font-weight: 300;
+    font-style: normal;
+    font-family: 'Roboto', sans-serif;
+    color: #666666;
+    font-size: 13px;
+    line-height: 1.7;
+    letter-spacing: 0px;
+}
 .p_16{
     font-weight: 300;
     font-style: normal;
@@ -710,6 +724,9 @@ a.size-medium{
             font-size: 40px;
             line-height: 1;
             letter-spacing: 0px;
+    }
+    .large_icons.contact{
+        font-size: 60px;
     }
     .button_style1{
         font-family: 'Roboto', sans-serif;
@@ -931,10 +948,6 @@ a.size-medium{
         background-color: #fecd2a;
         color: #fff;
     }
-    .ui.segment.lastcategory{
-        background-color: #fecd2a;
-        color: #fff;
-    }
     /* about sec */
     .about_sec{
         padding: 100px 0;
@@ -1008,7 +1021,7 @@ a.size-medium{
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
-        padding: 90px 0;
+        padding: 25px 0 0 0;
     }
     .request_callback .left_p{
         font-weight: 300;
@@ -1120,6 +1133,13 @@ a.size-medium{
     }
     .catg_serv .button_style1:hover{
         background-color: #fff;
+    }
+    /* blog */
+    .blog .ui.card.fluid {
+        box-shadow: none;
+    }
+    .blog .ui.card .content {
+        border: none;
     }
     /* pricing */
     .pricing .ui.segment {
