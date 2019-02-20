@@ -357,6 +357,16 @@ jQuery(document).ready(function($) {
         minheader();
         social_sroll();
     });
+        function social_sroll(){
+        var ss = $(window).scrollTop();
+        if (ss >= 171){
+            $(".share").addClass("ss_top");
+
+        }
+        else{
+            $(".share").removeClass("ss_top");
+        }
+    }
 
 
 
