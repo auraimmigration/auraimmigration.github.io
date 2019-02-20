@@ -126,9 +126,3 @@ In addition, unsorted rough industrial diamonds have been charged 0.25% GST tax 
 
 You can get the complete list of all the items included under different GST tax slabs on the official website of Central Board of Excise and Customs.Here is the link for the same.
 
-## Conclusion
-{: .title-canvas #conclusion}
-
-This is just a brief description of Goods and Services Tax or GST from GInvoicing.com. If you are interested to get a detailed insight into the murkier
-details of this newly introduced GST tax then feel free to approach us any time. We are equally helping in enabling you provide services related to GST bill creation and everything related to it.
-

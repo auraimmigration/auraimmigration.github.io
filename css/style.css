@@ -284,14 +284,6 @@ content: "\f176";
 .question::before{content:"Q:";padding-right:10px;font-weight:600;color:#008d4c;font-size:18px;position:absolute;padding-left:7px;border-left:3px solid #bebebe;left:0}
 .question + p::before{content:"A:";padding-right:10px;font-weight:600;color:#bcbcbc;font-size:18px;position:absolute;left:10px}
 .question + p{margin-bottom:50px;padding-left:45px;position:relative}
-.ginvoicing-form input,.ginvoicing-form textarea{border:none!important;border-radius:0!important;border-bottom:1px solid #a9a9a9!important;height:70px;font-size:16px!important;padding-left:30px!important}
-::placeholder{color:#787878!important}
-.ginvoicing-form .field{position:relative}
-.ginvoicing-form .field i{position:absolute;left:0;top:20px;color:#787878;font-size:17px}
-.ginvoicing-form input[value="submit"],.ginvoicing-form button[type="submit"]{background-color:#008d4c!important;color:#fff!important;padding:20px 40px;font-size:18px;text-transform:uppercase;font-weight:400}
-.ginvoicing-form input:hover,.ginvoicing-form textarea:hover{border-color:#008d4c!important}
-.ginvoicing-form textarea{padding-top:23px!important}
-.ginvoicing-form .field:hover i{color:#008d4c!important}
 .address-style{padding:20px 15px}
 .address-style ul{padding-left:0;margin-top:30px;position:relative}
 .address-style li{list-style:none;position:relative;padding-left:50px;margin:5px 0;font-size:15px;line-height:25px;color:#000}
@@ -313,7 +305,6 @@ content: "\f176";
 .tb-style tr td{color:#000;font-family:'Open Sans',sans-serif;font-size:16px}
 .tb-style thead tr th{background-color:#008d4c!important;border-top:4px solid #000!important;text-transform:uppercase!important;color:#fff!important;padding-left:50px}
 .map-location{margin-bottom:20px}
-.ui.form.ginvoicing-form{padding:10px 20px 40px;box-shadow:0 0 0 1px #e0e0e0;margin:40px 0 0}
 .cont-msg{padding:10px 0;margin-bottom:40px}
 .padding-txt{padding:30px 0}
 .help-desk{text-align:right}
@@ -531,6 +522,11 @@ main > header .ui.pointing.dropdown > .menu::after{left: 19%;}
 a {
     bottom: 0 !important;
 }
+a.size-medium{
+    font-size: 16px;
+    min-width: 180px;
+    padding: 17px 15px;
+}
 .gray_bg{
  background-color: #f1f4f6;
 }
@@ -611,7 +607,7 @@ body {
     font-style: normal;
     font-family: 'Roboto', sans-serif;
     color: #212b51;
-    font-size: 20px;
+    font-size: 1.250em;
     line-height: 1.4;
     letter-spacing: 0px;
     }
@@ -732,6 +728,7 @@ body {
         font-size: 16px;
         padding: 19px 15px;
         min-width: 233px;
+        text-transform: uppercase;
         line-height: 23px;
         display: inline-block;
         text-align: center;
@@ -774,7 +771,7 @@ body {
         padding: 41px 0;
     }
     .middle_head_bar a{
-        color: #27beb7;
+        color: #27beb7!important;
         text-decoration: none;
         font-weight: 400;
         font-style: normal;
@@ -1125,7 +1122,6 @@ body {
         bottom: 0;
     }
     .catg_serv .button_style1{
-        min-width: 180px;
         background-color: transparent;
         border-color: #fff!important;
     }

@@ -51,8 +51,6 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 Understand and save user's preferences for future visits.
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
 
-If you disable cookies off, You will not be able to use GInvoicing application. So we recommend not to keep in enabled.
-
 However, you can still place orders.
 
 ## Third-party disclosure

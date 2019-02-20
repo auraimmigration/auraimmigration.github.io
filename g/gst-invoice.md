@@ -183,10 +183,3 @@ the registered GST recipient purchases the services or goods from an unregistere
 must issue an invoice on the date of receiving the goods or services. The GST registered recipient also needs to mention on the invoice
 that he is paying tax on reverse charge. The person should retain this copy of GST invoice that will come handy in GST return filling
 purpose.
-
-With GST invoicing format becoming mandatory for all the buyers and suppliers of goods and services in India, only awareness on GST
-could make them alert and kicking. Hence, it is good to gain relevant knowledge of this most recent revelation on the Indian soil.
-At **GInvoicing**, we are always there to assist you in your GST related endeavors. Feel free to contact us any time, we will be more
-than happy to respond to all your GST related queries.
-
-

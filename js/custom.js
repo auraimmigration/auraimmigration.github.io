@@ -320,11 +320,6 @@
 jQuery(document).ready(function($) {
 
 
-    $(document).scroll(function () {
-        minheader();
-        social_sroll();
-    });
-
     $(".top-move").click(function (e) {
         $("html, body").animate({scrollTop: 0}, "slow");
         e.preventDefault();

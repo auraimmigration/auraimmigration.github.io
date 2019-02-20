@@ -105,12 +105,8 @@ Several industries like textile, construction and more were unorganized and unre
 
 Beyond doubts, GST has come as a silver lining on the unorganized tax system that prevailed prior to its implementation. GST does offer a slew of advantages, however, several of the side effects of GST bill could not be sidelined either. Here are few of these GST demerits:
 
-### GST leads to Expensive software cost
-In order to update the existing accounting software to make it GST compliant or to buy new GST software, the businesses are compelled to pay heavy costs. Moreover, they have also to manage the expenses of training their staff on proper utilization of the new GST software. Alternatively, they can approach tax professionals such as CAs, but that also accompanies considerable monthly fee. Hence, something needs to be done to cut down these additional expenditures. Perhaps, the GST ready software by GInvoicing could well be a suitable alternate to this problem.
 
 
-### The online GST system
-The fact that all the GST returns and compliances need to be filed online could trouble a significant section of taxpayers who relied on the pen and paper invoicing till date. Indeed, it is the digital age, but many of us are yet to own a computer and learn to operate. They can however seek the help of tax professionals, but it could cost them drearier. Yet again, the GInvoicing software could make things quite similar in this regard. Businesses owners can approach some tech savvy person to upload their GST invoices through this software. The tool will take care of the rest of the GST proceedings. 
 
 ### GST may impose tax burden on Small to medium enterprises
 Start-ups and small business are expected to gain appreciably with GST as they will be exempted to pay taxes till an annual threshold turnover of Rs 20 lakh. However, SMEs whose turnover was more than 1.5 crore used to pay excise duty earlier. They will now have to pay GST as soon as their turnover crosses the Rs 20 lakh more. Probably, the composition scheme could help them to some extent.

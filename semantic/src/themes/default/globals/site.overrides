@@ -4,24 +4,24 @@
 a.theme_yellow:hover{
     text-decoration: none;
     font-style: normal;
-    color: #27beb7;
+    color: @green;
 }
 a.theme_green:hover{
     text-decoration: none;
     font-style: normal;
-    color: #fecd2a;
+    color: @yellow;
 }
 .theme_green{
-    color: #17beb7;
+    color: @green;
 }
 .theme_bg_green{
-    background-color: #17beb7!important;
+    background-color: @green!important;
 }
 .theme_bg_yellow{
-    background-color: #fecd2a!important;
+    background-color: @yellow!important;
 }
 .theme_yellow{
-    color: #fecd2a;
+    color: @yellow;
 }
 .top-bar-menu{
         color:#fff;

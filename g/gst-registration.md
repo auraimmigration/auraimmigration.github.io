@@ -179,5 +179,3 @@ However, here it is important to note that if a business is operating from multi
 only tax to pay for. It will further ensure transparency and clarity in the calculation of input tax credit and GST taxes.
 
 GST has been introduced to make the life of the traders in India simpler than ever. All you need is to be aware and file for GST before the government calls it a day for new applications. In the initial quarters, GST may seem dreary due to involved intricacies.However, you can get away with them on browsing through the official government portal on GST. Best wishes for your GST regime.
-
-To know more about how to apply for GST registration or other aspects of GST procedure, feel free to contact us at GInvoicing,the ultimate online destination for GST invoicing.

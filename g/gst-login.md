@@ -107,6 +107,6 @@ In case you still have doubts on your GST login endeavors, then the GST portal e
 * You can go through Step-by-step User Manual on login and DSC registration or update
 * To avoid any sort of confusion regarding GST login, you can also refer to GST FAQs by clicking this link - FAQs regarding Login and DSC registration
 
-While the GST website is helpful in your effort login with your GST credentials, GInvoicing is also ever ready to assist any of your obligations related to GST. So make sure to contact us whenever you are stuck-up with any of the GST related issues. We will be more than happy to help you out!
+While the GST website is helpful in your effort login with your GST credentials, auraImmigration is also ever ready to assist any of your obligations related to GST. So make sure to contact us whenever you are stuck-up with any of the GST related issues. We will be more than happy to help you out!
 
 

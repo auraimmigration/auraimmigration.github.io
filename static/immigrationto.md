@@ -110,7 +110,7 @@ description: |
                                 <p class="p_40 white mb_20">
                                    Visa Categories
                                 </p>
-                                <p><a href="/visa_category.html" class="button_style1">CHOOSE</a></p>
+                                <p><a href="/visa_category.html" class="button_style1 size-medium">CHOOSE</a></p>
                     </div>
                 </div>
                 <div class="eight wide computer column sixteen wide mobile text_center sec">
@@ -118,7 +118,7 @@ description: |
                                 <p class="p_40 white mb_20">
                                    Our Services
                                 </p>
-                                <p><a href="/services.html" class="button_style1">BROWSE</a></p>
+                                <p><a href="/services.html" class="button_style1 size-medium">BROWSE</a></p>
                     </div>
                 </div>
         </div>
@@ -138,7 +138,7 @@ description: |
                                         <div class="p_16 mb_20">
                                                 There’s probably a good reason that most of the world is interested in spending their study abroad time in
                                         </div>
-                                        <a href="#" class="button_style1">Read More</a>
+                                        <a href="#" class="button_style1 size-medium">Read More</a>
                                     </div>
                                 </div>
                             </div>
@@ -154,7 +154,7 @@ description: |
                                             <div class="p_16 mb_20">
                                                     There’s probably a good reason that most of the world is interested in spending their study abroad time in
                                             </div>
-                                            <a href="#" class="button_style1">Read More</a>
+                                            <a href="#" class="button_style1 size-medium">Read More</a>
                                         </div>
                                     </div>
                                 </div>

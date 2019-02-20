@@ -222,9 +222,9 @@
 /*---  Colors  ---*/
 @red              : #DB2828;
 @orange           : #F2711C;
-@yellow           : #FBBD08;
+@yellow           : #fecd2a;
 @olive            : #B5CC18;
-@green            : #21BA45;
+@green            : #17beb7;
 @teal             : #00B5AD;
 @blue             : #2185D0;
 @violet           : #6435C9;

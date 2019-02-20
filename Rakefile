@@ -42,7 +42,7 @@ def all_links()
     array + Nokogiri::HTML(File.read(f)).xpath(
       '//article//a/@href'
     ).to_a.map(&:to_s)
-  end.sort.map{ |a| a.gsub(/^\//, 'https://www.ginvoicing.com/') }
+  end.sort.map{ |a| a.gsub(/^\//, 'https://www.auraImmigration.com/') }
 end
 
 desc 'Delete _site directory'
@@ -53,7 +53,7 @@ end
 
 desc 'Lint SASS sources'
 SCSSLint::RakeTask.new do |t|
-  f = Tempfile.new(['ginvoicing-', '.scss'])
+  f = Tempfile.new(['auraImmigration-', '.scss'])
   f << File.open('css/layout.scss').drop(2).join("\n")
   f.flush
   f.close
@@ -134,7 +134,7 @@ task spell: [:build] do
     html.search('//pre').remove
     html.search('//header').remove
     html.search('//footer').remove
-    tmp = Tempfile.new(['ginvoicing-', '.txt'])
+    tmp = Tempfile.new(['auraImmigration-', '.txt'])
     text = html.xpath('//article//p|//article//h2|//article//h3').to_a.join(' ')
       .gsub(/[\n\r\t ]+/, ' ')
       .gsub(/&[a-z]+;/, ' ')
@@ -165,14 +165,14 @@ end
 desc 'Ping all foreign links'
 task ping: [:build] do
   links = all_links().uniq
-    .reject{ |a| a.start_with? 'https://www.ginvoicing.com/' }
+    .reject{ |a| a.start_with? 'https://www.auraImmigration.com/' }
     .reject{ |a| a.include? 'linkedin.com' }
     .reject{ |a| !(a =~ /^https?:\/\/.*/) }
-  tmp = Tempfile.new(['ginvoicing-', '.txt'])
+  tmp = Tempfile.new(['auraImmigration-', '.txt'])
   tmp << links.join("\n")
   tmp.flush
   tmp.close
-  out = Tempfile.new(['ginvoicing-', '.txt'])
+  out = Tempfile.new(['auraImmigration-', '.txt'])
   out.close
   puts "#{links.size} links found, testing them..."
   system("./_rake/ping.sh #{tmp.path} #{out.path}")
@@ -251,9 +251,9 @@ end
 desc 'Make sure there are no orphan articles'
 task orphans: [:build] do
   links = all_links()
-    .reject{ |a| !a.start_with? 'https://www.ginvoicing.com/' }
+    .reject{ |a| !a.start_with? 'https://www.auraImmigration.com/' }
     .map{ |a| a.gsub(/#.*/, '') }
-  links += all_html().map { |f| f.gsub(/_site/, 'https://www.ginvoicing.com') }
+  links += all_html().map { |f| f.gsub(/_site/, 'https://www.auraImmigration.com') }
   counts = {}
   links
     .reject{ |a| !a.match /.*\/[0-9]{4}\/[0-9]{2}\/[0-9]{2}\/.*/ }
