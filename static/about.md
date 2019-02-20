@@ -79,37 +79,37 @@ description: |
                                 <div class="ui image">
                                         <img src="images/services1.jpg">
                                 </div>
-                                <a href="#" class="button_style2 theme_bg_yellow">Consultation</a>
+                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
                                 <div class="ui image">
                                         <img src="images/services2.jpg">
                                 </div>
-                                <a href="#" class="button_style2 theme_bg_yellow">Eligibility Assessment</a>
+                                <a href="services.html" class="button_style2 theme_bg_yellow">Eligibility Assessment</a>
                         </div>
                         <div class="column">
                                 <div class="ui image">
                                         <img src="images/services3.jpg">
                                 </div>
-                                <a href="#" class="button_style2 theme_bg_yellow">Consultation</a>
+                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
                                 <div class="ui image">
                                         <img src="images/services4.jpg">
                                 </div>
-                                <a href="#" class="button_style2 theme_bg_yellow">Consultation</a>
+                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
                                 <div class="ui image">
                                         <img src="images/services5.jpg">
                                 </div>
-                                <a href="#" class="button_style2 theme_bg_yellow">Consultation</a>
+                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
                                 <div class="ui image">
                                         <img src="images/services6.jpg">
                                 </div>
-                                <a href="#" class="button_style2 theme_bg_yellow">Consultation</a>
+                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                     </div>
                 </div>
@@ -127,7 +127,7 @@ description: |
                                     <img class="ui centered image" src="images/about-team1.jpg">
                                 </div>
                                 <div class="text_center mt_20 wrap-div">
-                                    <div class="p_20 mb_20"><a class="theme_green" href="#">Andy Rodriguez</a></div>
+                                    <div class="p_20 mb_20"><p class="theme_green" href="#">Andy Rodriguez</p></div>
                                     <div class="p_16 mb_20">
                                             CEO and Founder
                                     </div>
@@ -142,7 +142,7 @@ description: |
                                     <img class="ui centered image" src="images/about-team2.jpg">
                                 </div>
                                 <div class="text_center mt_20 wrap-div">
-                                    <div class="p_20 mb_20"><a class="theme_green" href="#">Andy Rodriguez</a></div>
+                                    <div class="p_20 mb_20"><p class="theme_green" href="#">Andy Rodriguez</p></div>
                                     <div class="p_16 mb_20">
                                             CEO and Founder
                                     </div>
@@ -157,7 +157,7 @@ description: |
                                     <img class="ui centered image" src="images/about-team3.jpg">
                                 </div>
                                 <div class="text_center mt_20 wrap-div">
-                                    <div class="p_20 mb_20"><a class="theme_green" href="#">Andy Rodriguez</a></div>
+                                    <div class="p_20 mb_20"><p class="theme_green" href="#">Andy Rodriguez</p></div>
                                     <div class="p_16 mb_20">
                                             CEO and Founder
                                     </div>
