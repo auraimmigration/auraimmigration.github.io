@@ -607,7 +607,7 @@ a.size-small{
     font-style: normal;
     font-family: 'Roboto', sans-serif;
     color: #212b51;
-    font-size: 1.250em;
+    font-size: 20px;
     line-height: 1.4;
     letter-spacing: 0px;
     }
@@ -1181,9 +1181,37 @@ a.size-small{
 }
 
 @media(max-width:1200px) {
-    .navbar_header .ui.menu.menu-responsive a{
+    .navbar_header .menu.menu-responsive a{
         font-size: 14px;
         margin:0 12px;
+    }
+    .blog .img_box {
+        height: 250px !important;
+    }
+    .pad_30_0 {
+        padding: 25px 0;
+    }
+    .pt_40 {
+        padding-top: 20px;
+    }
+    .catg_serv .first div {
+        padding: 75px 0px;
+    }
+    .catg_serv .sec div {
+        padding: 75px 0px;
+    }
+    .services_page ul li::before {
+        top: 0px;
+        font: 7px/14px FontAwesome;
+    }
+    .services_page ul li {
+        padding-left: 15px;
+    }
+    .mt_50 {
+        margin-top: 30px !important;
+    }
+    .blog-title, .blog-title-detail{
+        padding: 120px 0;
     }
     .heading_banner{
         font-size: 50px;
@@ -1226,6 +1254,10 @@ a.size-small{
     .navbar_header .menu.menu-responsive a{
         font-size: 13px;
         margin:0 10px;
+    }
+    .p_40{
+        font-size: 25px;
+        line-height: 1.2;
     }
     .request_callback iframe {
         height: 685px;
@@ -1324,6 +1356,9 @@ a.size-small{
         padding: 10px 0;
     }
     .large_icons{
+        font-size: 30px;
+    }
+    .large_icons.contact{
         font-size: 30px;
     }
     .p_16{
@@ -1445,7 +1480,9 @@ a.size-small{
     .help-desk a span{margin-left:0}
     .blog-list-box .top-title{padding:2px 0 0}
     .blog-title h1,.blog-title-detail h1{font-size:55px}
-    .blog-title,.blog-title-detail{padding:53px 0 0}
+
+    .blog-title,.blog-title-detail{padding:70px 0}
+
     .blog-list .ui.container{width:90%!important}
     .blog-heading h2{font-size:19px;text-transform:capitalize}
     .clients{margin-top:40px}
@@ -1474,6 +1511,38 @@ a.size-small{
 @media(max-width:767px) {
     .banner_widget{
         padding: 20px;
+    }
+    .blog .img_box {
+        height: 150px !important;
+    }
+    .large_icons.contact {
+        font-size: 22px;
+        line-height: 1.3;
+    }
+    .pad_30_0 {
+        padding: 20px 0;
+    }
+    .contact_us .m-0-auto .p_20 {
+        font-size: 18px;
+        line-height: 0.9;
+    }
+    .pricing .p_16 {
+        font-size: 15px;
+        line-height: 0.9;
+    }
+    .pricing .p_20 {
+        font-size: 18px;
+        line-height: 0.9;
+    }
+    .catg_serv .sec div{
+        padding: 60px 0;
+    }
+    .catg_serv .first div{
+        padding: 60px 0;
+    }
+    .p_40{
+        font-size: 20px;
+        line-height: 1.5;
     }
     .middle_head_bar .p_20 {
         font-size: 16px;
@@ -1574,7 +1643,9 @@ a.size-small{
     .gst-list-featured .round-set{margin-left:0!important}
     .round-set span{left:136px!important}
     .top-bar-menu a,.help-desk a span{display:block;width:100%}
-    .blog-title,.blog-title-detail{padding:30px 0 20px}
+
+    .blog-title,.blog-title-detail{padding:40px 0}
+
     .blog-banner{min-height:inherit!important}
     .blog-list-box .top-title{width:calc(100% - 28px);top:14px;padding:inherit}
     .top-stories .blog-list-box .top-title{top:0}
@@ -1629,7 +1700,7 @@ a.size-small{
         padding: 50px 0;
     }
     .heading_banner{
-        font-size: 23px;
+        font-size: 22px;
     }
     .request_callback .left_p {
         font-size: 20px;

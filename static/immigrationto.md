@@ -105,7 +105,7 @@ description: |
 </div>   
 <div class="ui vertical stripe catg_serv" >
         <div class="ui grid center-aligned stackable">
-                <div class="eight wide computer column sixteen wide mobile text_center first">
+                <div class="eight wide tablet eight wide computer column sixteen wide mobile text_center first">
                     <div class=" white wrap">
                                 <p class="p_40 white mb_20">
                                    Visa Categories
@@ -113,7 +113,7 @@ description: |
                                 <p><a href="/visa_category.html" class="button_style1 size-medium">CHOOSE</a></p>
                     </div>
                 </div>
-                <div class="eight wide computer column sixteen wide mobile text_center sec">
+                <div class="eight wide tablet eight wide computer column sixteen wide mobile text_center sec">
                     <div class=" white wrap">
                                 <p class="p_40 white mb_20">
                                    Our Services

@@ -10,15 +10,15 @@ description: |
 <div class="ui vertical stripe about_sec" >
     <div class="ui container">
         <div class="ui grid center-aligned stackable ">
-                <div class=" ten wide computer column sixteen wide mobile">
+                <div class="ten wide tablet ten wide computer column sixteen wide mobile">
                     <div class="ui segment p_50 theme_bg_green white">
                             <p class="section_heading mb_20 theme_green white">About Us</p>
-                            <p class="p_20 mb_30 white">Welcome to Aura immigration.</p>
+                            <p class="p_20 mb_30 white">Welcome to Voyage immigration.</p>
                             <p class="p_16 mb_30 white">
-                                    Our immigration  was established in 2000, Aura is a private immigration company
-                                      with a team of highly experienced migration consultants for the Canada, USA,
-                                      Europe and Australia clients from across the globe wishing to apply for a visa.
-                                        Aura immigration provides fee-based services in addition to the official government 
+                                    Our immigration  was established in 2000, Voyage is a private immigration company
+                                        with a team of highly experienced migration consultants for the Canada, USA,
+                                        Europe and Australia clients from across the globe wishing to apply for a visa.
+                                        Voyage immigration provides fee-based services in addition to the official government 
                                         charges to advise, assist and represent our clients through the often-complex visa 
                                         application process.
                             </p>
@@ -36,7 +36,7 @@ description: |
  <div class="ui vertical stripe pad_140 theme_bg_green  statistic_sec" >
     <div class="ui container">
         <div class="ui grid center-aligned stackable ">
-                <div class="eight wide computer column four wide tablet sixteen wide mobile center aligned">
+                <div class="eight wide computer column eight wide tablet sixteen wide mobile center aligned">
                         <div class="ui statistic ">
                             <div class="value white">
                                 Our Vision
@@ -49,7 +49,7 @@ description: |
                             </div>
                         </div>
                 </div>
-                <div class="eight wide computer column four wide tablet sixteen wide mobile center aligned">
+                <div class="eight wide computer column eight wide tablet sixteen wide mobile center aligned">
                         <div class="ui statistic ">
                             <div class="value white">
                                  Our Mission
