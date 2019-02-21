@@ -760,7 +760,7 @@ a.size-small{
     }
     /* header */
     .aura-link div.menu a.item.theme_green {
-        display: none;
+        display: none!important;
     }
     .top_head_bar{
         background-color: #27beb7;
@@ -1272,7 +1272,7 @@ a.size-small{
     }
     .p_16{
         font-size: 13px;
-        line-height: 1;
+        line-height: 1.3;
     }
     .p_12{
         font-size: 10px;
@@ -1331,8 +1331,9 @@ a.size-small{
     .menu-responsive.m-show {
         display: block!important;
         position: absolute;
-        top: 45px;
+        top: 40px;
         left: 0;
+        border-radius: 0;
         z-index: 9;
     }
     /* .mobile-menu{display:inline-block;right:0;cursor:pointer!important;z-index:22222;top:-50px} */
@@ -1404,6 +1405,12 @@ a.size-small{
     .mobile-slide img{margin-top: 0 !important;        max-width: 145px;}
 }
 @media(max-width:768px) {
+    .banner_widget{
+        padding: 20px 0 30px 0;
+    }
+    .request_callback iframe {
+        height: 690px;
+    }
     .footer_sec a.ui.massive {
         font-size: 1em;
     }
@@ -1476,7 +1483,7 @@ a.size-small{
     nav.share span{top:-13px;right:0px;z-index:11111}
     .top-move{bottom:15px}
     .navbar_header .menu.menu-responsive .aura-link {
-        padding: 0 10px!important;
+        padding: 0!important;
         float: left;
         width: 100%;
     }
@@ -1503,7 +1510,7 @@ a.size-small{
         cursor: pointer;
     }
     .section_heading{
-        font-size: 32px;
+        font-size: 26px;
     }
     .about_sec{
         padding: 50px 0;
@@ -1518,15 +1525,18 @@ a.size-small{
         font-size: 30px;
     }
     .request_callback .left_p{
-        font-size: 30px;
+        font-size: 26px;
     }
     .button_style1{
     font-size: 12px;
     padding: 9px 12px;
     min-width: 200px;
     }
+    .statistic_sec .ui.statistic > .value{
+        font-size: 2.3em!important;
+    }
     .button_style2{
-        font-size: 14px;
+        font-size: 12px;
         line-height: 1;
     }
     .middle_head_bar {
@@ -1557,7 +1567,7 @@ a.size-small{
         font-size: 16px;
     }   
     .p_26{
-        font-size: 20px;
+        font-size: 18px;
     }
     .p_24{
         font-size: 18px;

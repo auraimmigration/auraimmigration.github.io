@@ -9,7 +9,7 @@ description: |
 
 <div class="ui vertical stripe pad_140 contact_us" >
     <div class="ui container">
-        <div class="ui two column centered grid">
+        <div class="ui two column centered grid stackable">
           <div class="column">
                     <p class="p_20 text_center">Would you like to speak to one of our consultant? Choose your way of communication.</p>
           </div>
@@ -83,11 +83,11 @@ description: |
 <section class="request_callback" >
   <div class="ui container">
       <div class="ui grid centered middle aligned four column text_center ">
-              <div class="eight wide computer column p_0 ">
+              <div class="sixteen wide mobile seven wide computer column p_0 ">
                   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-BQ5z6hRaLDsuIk4LmMu69DLyAUc7onF7V5HzicgmIZ70Zg/viewform?embedded=true" width="100%" height="680" frameborder="0" marginheight="0" marginwidth="0">Loading...
                   </iframe>
               </div>
-                <div class="eight   wide computer  column">
+                <div class="sixteen wide mobile nine  wide computer  column">
                           <p class="left_p white">Would you like to speak to one of ourconsultant over phone?</p>
               </div>
       </div>
