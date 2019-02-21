@@ -1181,27 +1181,68 @@ a.size-small{
 }
 
 @media(max-width:1200px) {
-    .navbar_header .menu.menu-responsive a{
+    .navbar_header .ui.menu.menu-responsive a{
         font-size: 14px;
         margin:0 12px;
+    }
+    .heading_banner{
+        font-size: 50px;
+    }
+    .request_callback .left_p{
+        font-size: 36px;
+    }
+    .footer_sec {
+        padding: 80px 0;
+    }
+    .section_heading{
+        font-size: 36px;
+    }
+    .our_services a.button_style2{
+        font-size: 12px;
+    }
+    .statistic_sec .ui.statistic > .value{
+        font-size: 3em!important;
+    }
+    .pad_140{
+        padding: 100px 0;
+    }
+    .banner_sec{
+        padding: 150px 0;
     }
     .navbar_header .menu.menu-responsive .aura-link span{
         font-size: 14px;
     }
 }
 @media(max-width:1190px) {
-    .tabular.menu .item{flex:auto!important}
+    /* .tabular.menu .item{flex:auto!important}
     main > header .ui.menu .item{font-size:13px}
     .get-started{width:100%}
     .get-started .started{transform:scale(.7)}
     .gst-help-desk large{font-size:33px}
     .invoice-featured::before{width:100%}
-    .share {right:0; left: inherit; top:190px;}
+    .share {right:0; left: inherit; top:190px;} */
 }
-@media(max-width:990px) {
+@media(max-width:991px) {
     .navbar_header .menu.menu-responsive a{
         font-size: 13px;
         margin:0 10px;
+    }
+    .request_callback iframe {
+        height: 685px;
+    }
+    .footer_sec{
+        padding: 75px 0;
+    }
+    a.size-medium{
+        font-size: 12px;
+        min-width: 140px;
+        padding: 12px 10px;
+    }
+    .client_say .ui.segment {
+        padding: 30px 20px !important;
+    }
+    .statistic_sec .ui.statistic > .value{
+        font-size: 2rem!important;
     }
     .navbar_header .container .menu-responsive .dropdown.aura-link > div.ui a {
         font-size: 13px !important;
@@ -1241,12 +1282,13 @@ a.size-small{
         font-size: 27px;
         line-height: 1;
         letter-spacing: 0px;
+        margin-bottom: 30px!important;
     }
     .about_sec{
         padding: 35px 0;
     }
     .request_callback{
-        padding: 50px 0;
+        padding: 40px 0 0 0;
     }
     .banner_sec{
         padding: 50px 0;
@@ -1292,10 +1334,14 @@ a.size-small{
         font-size: 10px;
     }
     .p_20{
-        font-size: 13px;
-        line-height: 1.2;
+        font-size: 17px;
+        line-height: 1;
         letter-spacing: 0px;
     }   
+    .middle_head_bar .p_20{
+        font-size: 13px;
+        line-height: 1.2;
+    } 
     .p_26{
         font-size: 20px;
         line-height: 1.3;
@@ -1427,7 +1473,11 @@ a.size-small{
 }
 @media(max-width:767px) {
     .banner_widget{
-        padding: 20px 0 30px 0;
+        padding: 20px;
+    }
+    .middle_head_bar .p_20 {
+        font-size: 16px;
+        line-height: 1.3;
     }
     .single_category_head a{
         font-size: 18px;
@@ -1464,9 +1514,6 @@ a.size-small{
         font-size: 12px;
         min-width: 130px;
         padding: 7px 12px;
-    }
-    .request_callback iframe {
-        height: 685px;
     }
     .footer_sec a.ui.massive {
         font-size: 1em;
@@ -1570,6 +1617,7 @@ a.size-small{
         font-size: 20px;
         line-height: 1.1;
         letter-spacing: 0;
+        margin-bottom: 15px!important;
     }
     .about_sec{
         padding: 50px 0;

@@ -13,12 +13,12 @@ description: |
                 <div class=" ten wide computer column sixteen wide mobile">
                     <div class="ui segment p_50 theme_bg_green white">
                             <p class="section_heading mb_20 theme_green white">About Us</p>
-                            <p class="p_20 mb_30 white">Welcome to Aura Agency.</p>
+                            <p class="p_20 mb_30 white">Welcome to Aura immigration.</p>
                             <p class="p_16 mb_30 white">
-                                    Our Agency  was established in 2000, Aura is a private immigration company
+                                    Our immigration  was established in 2000, Aura is a private immigration company
                                       with a team of highly experienced migration consultants for the Canada, USA,
                                       Europe and Australia clients from across the globe wishing to apply for a visa.
-                                        Aura Agency provides fee-based services in addition to the official government 
+                                        Aura immigration provides fee-based services in addition to the official government 
                                         charges to advise, assist and represent our clients through the often-complex visa 
                                         application process.
                             </p>
