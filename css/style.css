@@ -560,7 +560,9 @@ a.size-small{
 }
 .mobile-slide img{width: 100%; max-width: 231px; margin-top:30px !important;}
 /* css aura */
-
+a {
+	outline: none !important;
+}
  a{
      transition:.3s;
  }
