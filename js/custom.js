@@ -319,6 +319,9 @@
 
 jQuery(document).ready(function($) {
 
+    $(".aura-link .fa.fa-caret-down").click(function(){
+        $('.aura-link:hover .mobile').toggle();
+      });
 
     $(".top-move").click(function (e) {
         $("html, body").animate({scrollTop: 0}, "slow");
