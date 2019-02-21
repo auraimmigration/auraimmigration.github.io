@@ -8,31 +8,31 @@ description: |
  
 ---
 <div class="ui vertical stripe about_sec" >
-    <div class="ui container">
-        <div class="ui grid center-aligned stackable ">
-                <div class="ten wide tablet ten wide computer column sixteen wide mobile">
-                    <div class="ui segment p_50 theme_bg_green white">
-                            <p class="section_heading mb_20 theme_green white">About Us</p>
-                            <p class="p_20 mb_30 white">Welcome to Voyage immigration.</p>
-                            <p class="p_16 mb_30 white">
-                                    Our immigration  was established in 2000, Voyage is a private immigration company
-                                        with a team of highly experienced migration consultants for the Canada, USA,
-                                        Europe and Australia clients from across the globe wishing to apply for a visa.
-                                        Voyage immigration provides fee-based services in addition to the official government 
-                                        charges to advise, assist and represent our clients through the often-complex visa 
-                                        application process.
-                            </p>
-                            <p class="p_26 need_help white">
-                                    <span class="moto-color5_5"><strong>Need a consultation?</strong> Call us today </span>
-                                    <a data-action="call" href="tel:1234567890">1-888-123-45678</a>
-                                    <span class="moto-color5_5">&nbsp; or&nbsp; e-mail us: </span>
-                                    <a data-action="mail"  href="mailto:info@demolink.org">info@demolink.org</a>
-                            </p>
+        <div class="ui container">
+            <div class="ui grid center-aligned stackable ">
+                    <div class="ten wide tablet ten wide computer column sixteen wide mobile">
+                        <div class="ui segment p_50 theme_bg_green white">
+                                <p class="section_heading mb_20 theme_green white">About Us</p>
+                                <p class="p_20 mb_30 white">Welcome to Voyage immigration.</p>
+                                <p class="p_16 mb_30 white">
+                                        Our immigration  was established in 2000, Voyage is a private immigration company
+                                            with a team of highly experienced migration consultants for the Canada, USA,
+                                            Europe and Australia clients from across the globe wishing to apply for a visa.
+                                            Voyage immigration provides fee-based services in addition to the official government 
+                                            charges to advise, assist and represent our clients through the often-complex visa 
+                                            application process.
+                                </p>
+                                <p class="p_26 need_help white">
+                                        <span class="moto-color5_5"><strong>Need a consultation?</strong> Call us today </span>
+                                        <a data-action="call" href="tel:1234567890">1-888-123-45678</a>
+                                        <span class="moto-color5_5">&nbsp; or&nbsp; e-mail us: </span>
+                                        <a data-action="mail"  href="mailto:info@demolink.org">info@demolink.org</a>
+                                </p>
+                        </div>
                     </div>
-                </div>
+            </div>
         </div>
     </div>
-</div>
  <div class="ui vertical stripe pad_140 theme_bg_green  statistic_sec" >
     <div class="ui container">
         <div class="ui grid center-aligned stackable ">
@@ -68,45 +68,45 @@ description: |
 <div class="ui vertical stripe pad_140 our_services" >
     <div class="ui container">
         <div class="ui grid center-aligned stackable">
-                <div class="four wide computer column sixteen wide mobile">
+                <div class="sixteen wide tablet four wide computer column sixteen wide mobile">
                             <p class="section_heading mb_30 theme_green">Our Services</p>
                             <p class="p_16 mb_30">We give your immigration case the personal attention it deserves & help you settle in the country of your choice.
                                 </p>
                 </div>
-                <div class="sixteen wide mobile twelve wide computer column">
+                <div class="sixteen wide tablet sixteen wide mobile twelve wide computer column">
                     <div class="ui grid three column row stackable column">
                         <div class="column">
-                                <div class="ui image">
+                                <div class="ui image fluid">
                                         <img src="images/services1.jpg">
                                 </div>
                                 <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
-                                <div class="ui image">
+                                <div class="ui image fluid">
                                         <img src="images/services2.jpg">
                                 </div>
                                 <a href="services.html" class="button_style2 theme_bg_yellow">Eligibility Assessment</a>
                         </div>
                         <div class="column">
-                                <div class="ui image">
+                                <div class="ui image fluid">
                                         <img src="images/services3.jpg">
                                 </div>
                                 <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
-                                <div class="ui image">
+                                <div class="ui image fluid">
                                         <img src="images/services4.jpg">
                                 </div>
                                 <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
-                                <div class="ui image">
+                                <div class="ui image fluid">
                                         <img src="images/services5.jpg">
                                 </div>
                                 <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
                         </div>
                         <div class="column">
-                                <div class="ui image">
+                                <div class="ui image fluid">
                                         <img src="images/services6.jpg">
                                 </div>
                                 <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
