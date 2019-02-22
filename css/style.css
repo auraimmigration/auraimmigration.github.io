@@ -1189,9 +1189,12 @@ a {
 }
 
 @media(max-width:1200px) {
-    .navbar_header .menu.menu-responsive a{
+    .navbar_header .menu.menu-responsive a {
         font-size: 14px;
-        margin:0 12px;
+        margin: 0 20px;
+    }
+    .p_20 {
+        font-size: 18px;
     }
     .blog .img_box {
         height: 250px !important;
