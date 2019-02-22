@@ -318,7 +318,9 @@
 
 
 jQuery(document).ready(function($) {
-
+    $('.req_modal').click(function(){
+        $('.ui.modal').modal('show');
+    });
     $(".aura-link .fa.fa-caret-down").click(function(){
         $('.aura-link:hover .mobile').toggle();
       });

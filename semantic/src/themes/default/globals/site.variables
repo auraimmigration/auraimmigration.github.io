@@ -120,7 +120,7 @@
 /*-------------------
         Page
 --------------------*/
-
+@linkColor           : #27beb7;
 @pageBackground      : #FFFFFF;
 @pageOverflowX       : hidden;
 
