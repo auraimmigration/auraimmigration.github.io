@@ -5,7 +5,6 @@ id: blog
 permalink: blog.html
 main_image: /images/banner.jpg
 description: |
-
 ---
   <div class="ui vertical stripe pad_140 blog">
       <div class="ui container">
@@ -22,7 +21,7 @@ description: |
                     <div class="mb_20">
                       <p class="p_16">The ability to manage money competently is especially valuable quality in the conditions of financial crisis, when the purchasing power of the population is shrinking, inflation is rising, and currency exchange rates are completely unpredictable. Below are the common mistakes related to money affairs along with financial planning advice to help manage your own finances properly.</p>
                     </div>
-                    <a href="#" class="button_style1 size-small mb_20">READ MORE</a>
+                    <a href="/single_post.html" class="button_style1 size-small mb_20">READ MORE</a>
                   </div>
               </div>
               <div class="ui divider"></div>
@@ -37,7 +36,7 @@ description: |
                     <div class="mb_20">
                       <p class="p_16">The ability to manage money competently is especially valuable quality in the conditions of financial crisis, when the purchasing power of the population is shrinking, inflation is rising, and currency exchange rates are completely unpredictable. Below are the common mistakes related to money affairs along with financial planning advice to help manage your own finances properly.</p>
                     </div>
-                    <a href="#" class="button_style1 size-small mb_20">READ MORE</a>
+                    <a href="/single_post.html" class="button_style1 size-small mb_20">READ MORE</a>
                   </div>
               </div>
               <div class="ui divider"></div>
@@ -52,7 +51,7 @@ description: |
                     <div class="mb_20">
                       <p class="p_16">The ability to manage money competently is especially valuable quality in the conditions of financial crisis, when the purchasing power of the population is shrinking, inflation is rising, and currency exchange rates are completely unpredictable. Below are the common mistakes related to money affairs along with financial planning advice to help manage your own finances properly.</p>
                     </div>
-                    <a href="#" class="button_style1 size-small mb_20">READ MORE</a>
+                    <a href="/single_post.html" class="button_style1 size-small mb_20">READ MORE</a>
                   </div>
               </div>
               <div class="ui divider"></div>
@@ -79,23 +78,23 @@ description: |
              <div class="mb_20 mt_20 wrap-div">
                 <img src="images/blog-post1.jpg" class="ui image">
              </div>
-             <p class="p_20 mt_20"><a href="#" class="theme_green">The most common mistakes when managing personal finances</a></p>
+             <p class="p_20 mt_20"><a href="/single_post.html" class="theme_green">The most common mistakes when managing personal finances</a></p>
              <div class="mb_20 mt_20 wrap-div">
                 <img src="images/blog-post2.jpg" class="ui image">
              </div>
-             <p class="p_20 mt_20"><a href="#" class="theme_green">The most common mistakes when managing personal finances</a></p>
+             <p class="p_20 mt_20"><a href="/single_post.html" class="theme_green">The most common mistakes when managing personal finances</a></p>
              <div class="mb_20 mt_20 wrap-div">
                 <img src="images/blog-post3.jpg" class="ui image">
              </div>
-             <p class="p_20 mt_20"><a href="#" class="theme_green">The most common mistakes when managing personal finances</a></p>
+             <p class="p_20 mt_20"><a href="/single_post.html" class="theme_green">The most common mistakes when managing personal finances</a></p>
              <div class="mb_20 mt_20 wrap-div">
                 <img src="images/blog-post4.jpg" class="ui image">
              </div>
-             <p class="p_20 mt_20"><a href="#" class="theme_green">The most common mistakes when managing personal finances</a></p>
+             <p class="p_20 mt_20"><a href="/single_post.html" class="theme_green">The most common mistakes when managing personal finances</a></p>
              <div class="mb_20 mt_20 wrap-div">
                 <img src="images/blog-post5.jpg" class="ui image">
              </div>
-             <p class="p_20 mt_20"><a href="#" class="theme_green">The most common mistakes when managing personal finances</a></p>
+             <p class="p_20 mt_20"><a href="/single_post.html" class="theme_green">The most common mistakes when managing personal finances</a></p>
           </div>
         </div>
       </div>

@@ -22,7 +22,7 @@ description: |
                          <i class="map marker alternate icon"></i>
                         </div>
                         <div class="text_center mt_20">
-                            <div class="p_20 mb_20 theme_yellow"><a class="theme_green" href="#">Address</a></div>
+                            <div class="p_20 mb_20 theme_green">Address</div>
                             <div class="p_16 mb_20">
                                   2130 Fulton Street San Diego, CA 94117-1080 USA
                             </div>
@@ -37,10 +37,10 @@ description: |
                          <i class="fa fa-phone"></i>
                         </div>
                         <div class="text_center mt_20">
-                            <div class="p_20 mb_20 theme_yellow"><a class="theme_green" href="#">Phone</a></div>
+                            <div class="p_20 mb_20 theme_green">Phone</div>
                             <div class="p_16 mb_20">
-                                  <p>+1(800)123-4567</p>
-                                 <p> +1(800)123-4566</p>
+                                  <p>604-712-0080</p>
+                                 <p> 604-712-0080</p>
                             </div>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ description: |
                          <i class="fa fa-envelope-open-o"></i>
                         </div>
                         <div class="text_center mt_20">
-                            <div class="p_20 mb_20 theme_yellow"><a class="theme_green" href="#">E-mail</a></div>
+                            <div class="p_20 mb_20 theme_green">E-mail</div>
                             <div class="p_16 mb_20">
                                   info@auraimmigration.com
                                   www.auraimmigration.com
@@ -69,7 +69,7 @@ description: |
                          <i class="clock outline icon"></i>
                         </div>
                         <div class="text_center mt_20">
-                            <div class="p_20 mb_20 theme_yellow"><a class="theme_green" href="#">Opening hours</a></div>
+                            <div class="p_20 mb_20 theme_green">Opening hours</div>
                             <div class="p_16 mb_20">
                                   Mon-Sun: 7am - 7pm
                             </div>
