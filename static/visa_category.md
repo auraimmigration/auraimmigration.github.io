@@ -192,7 +192,7 @@ description: |
                                                     <img src="images/testimonials1.jpg">   
                                             </div>
                                                 <p class="p_16 white mb_20">
-                                                    Really so happy to know that our visas are granted. It has been a great waiting yet, the support from Voyage immigration gave enough confidence and patience to wait for the visa issuance. I would like to use this opportunity to Voyage immigration for the timely professional support. You have shown such professional attitude and culture in dealing.
+                                                    Really so happy to know that our visas are granted. It has been a great waiting yet, the support from aura immigration gave enough confidence and patience to wait for the visa issuance. I would like to use this opportunity to aura immigration for the timely professional support. You have shown such professional attitude and culture in dealing.
                                                 </p>
                                                 <p class="p_20 white">
                                                     Andry
@@ -205,7 +205,7 @@ description: |
                                                         <img src="images/testimonials2.jpg">   
                                                 </div>
                                                     <p class="p_16 white mb_20">
-                                                        Really so happy to know that our visas are granted. It has been a great waiting yet, the support from Voyage immigration gave enough confidence and patience to wait for the visa issuance. I would like to use this opportunity to Voyage immigration for the timely professional support. You have shown such professional attitude and culture in dealing.
+                                                        Really so happy to know that our visas are granted. It has been a great waiting yet, the support from aura immigration gave enough confidence and patience to wait for the visa issuance. I would like to use this opportunity to aura immigration for the timely professional support. You have shown such professional attitude and culture in dealing.
                                                     </p>
                                                     <p class="p_20 white">
                                                         Kate
