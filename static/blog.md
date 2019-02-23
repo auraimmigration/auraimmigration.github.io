@@ -29,6 +29,7 @@ description: |
                <p class="section_heading mb_20 theme_green mt_20 ">The most common mistakes when managing personal finances</p>
                     <p class="mb_20 p_13">
                         <i class="calendar icon m-0"></i>
+                        
                         6 Feb,2019
                       </p>
                     <div class="mb_20 img_box" style="height: 400px; background-image: url('images/blog-post2.jpg'); background-size: cover; background-repeat: no-repeat;"></div>
