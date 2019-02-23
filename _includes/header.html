@@ -60,7 +60,7 @@
                     <div class="left aligned sixteen wide tablet eight wide column ">
                         <div class="ui stackable menu menu-responsive m_0">
                             <div class="ui dropdown aura-link">
-                                <a href="about.html" class="item theme_green">About</a>
+                                <a {% if page.url == "/about.html" %}class="active "{% endif %} href="about.html" class="item">About</a>
                                     <i class="fa fa-caret-down"></i>
                                 <div class="ui menu">
                                     <a class="" href="/archive.html">Archive</a>
@@ -68,27 +68,27 @@
                                     <a class="" href="/services.html">Services</a>
                                 </div>
                                 <div class="ui mobile">
-                                        <a class="" href="/archive.html">Archive</a>
-                                        <a class="" href="/events.html">Events</a>
-                                        <a class="" href="/services.html">Services</a>
-                                    </div>
+                                    <a class="" href="/archive.html">Archive</a>
+                                    <a class="" href="/events.html">Events</a>
+                                    <a class="" href="/services.html">Services</a>
+                                </div>
                             </div>
-                            <a class="theme_green" href="/services.html">
+                            <a  {% if page.url == "/services.html" %}class="active"{% endif %} href="/services.html">
                                 services
                             </a>
-                            <a class="theme_green" href="/visa_category.html">
+                            <a {% if page.url == "/visa_category.html" %}class="active"{% endif %}  href="/visa_category.html">
                                 visa categories
                             </a>
-                            <a class="theme_green"  href="immigrationto.html">
+                            <a {% if page.url == "/immigrationto.html" %}class="active"{% endif %}   href="immigrationto.html">
                                 immigration to
                             </a>
-                            <a class="theme_green"  href="/pricing.html">
+                            <a {% if page.url == "/pricing.html" %}class="active"{% endif %}  href="/pricing.html">
                                 pricing
                             </a>
-                            <a class="theme_green"  href="blog.html">
+                            <a  {% if page.url == "/blog.html" %}class="active"{% endif %}  href="blog.html">
                                 news
                             </a>
-                            <a class="theme_green"  href="contact.html">
+                            <a {% if page.url == "/contact.html" %}class="active"{% endif %}   href="contact.html">
                                 Contacts
                             </a>
                         </div>
