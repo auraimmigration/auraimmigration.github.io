@@ -1,7 +1,7 @@
 ---
 layout: static
-title: VISA CATEGORIES
-id: VISA CATEGORIES
+title: Visa Categories
+id: Visa Categories
 permalink: visa_category.html
 main_image: /images/banner.jpg
 description: |
