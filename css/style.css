@@ -8,7 +8,7 @@ main > header .ui.inverted.menu .active.item{background:none;border-radius:0;tex
 main > header .ui.inverted.menu .item::before{background:none}
 body > img{display:none}
 main > header .ui.inverted.menu .active.item{box-shadow:0 4px #008d4c}
-.logo{max-height:59px}
+.logo{max-height:79px}
 main > header .item{text-transform:uppercase!important;border-radius:0!important}
 .top-bar-menu{background-color: #17beb7;padding: 20px 0;border-top: 3px solid #fecd2a;transition-duration: 0.4s;transition-property: background-color, border-color;}
 .top-bar-menu p{line-height: 1;}
@@ -492,7 +492,7 @@ a {
     background-color: rgba(39,190,183,0.7);
     transition-duration: 0.4s;
     transition-property: background-color, border-color;
-    padding: 30px 0 50px 0;
+    padding: 50px 0 50px 0;
     text-align: center;
     }
     /* privacy_pol */
