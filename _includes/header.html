@@ -76,9 +76,20 @@
                             <a  {% if page.url == "/services.html" %}class="active"{% endif %} href="/services.html">
                                 services
                             </a>
-                            <a {% if page.url == "/visa_category.html" %}class="active"{% endif %}  href="/visa_category.html">
-                                visa categories
-                            </a>
+                            <div class="ui dropdown aura-link">
+                                <a {% if page.url == "/visa_category.html" %}class="active "{% endif %} href="/visa_category.html" class="item">Visa Categories</a>
+                                    <i class="fa fa-caret-down"></i>
+                                <div class="ui menu">
+                                    <a class="" href="/canadian-business-immigration.html">Business Immigration</a>
+                                    <a class="" href="/canadian-work-permits.html">Work Permits</a>
+                                    <a class="" href="/canadian-immigration.html">Immigrate to Canada</a>
+                                </div>
+                                <div class="ui mobile">
+                                    <a class="" href="/archive.html">Archive</a>
+                                    <a class="" href="/events.html">Events</a>
+                                    <a class="" href="/services.html">Services</a>
+                                </div>
+                            </div>
                             <a {% if page.url == "/immigrationto.html" %}class="active"{% endif %}   href="immigrationto.html">
                                 immigration to
                             </a>
