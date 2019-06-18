@@ -1,9 +1,9 @@
 ---
 layout: privacy_pol
-title: Archive
+title: Canadian Work Permits
 id: archive
 main_image: /images/banner.jpg
-permalink: archive.html
+permalink: canadian-work-permits.html
 description: |
  
 ---

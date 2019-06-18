@@ -70,6 +70,9 @@ footer{background-color:#272533;    padding: 70px 0;}
 .mobile{
     display: none;
 }
+p.bb-img {
+    display: none;
+}
 .aura-link:hover > .menu{
     display: block;
     min-width: 180px;
@@ -467,7 +470,7 @@ a {
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
-        padding: 230px 0;
+        padding: 264px 0;
     }
     .heading_banner{
         font-weight: 300;
