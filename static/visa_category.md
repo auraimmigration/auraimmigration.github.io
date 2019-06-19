@@ -7,7 +7,8 @@ main_image: /images/banner.jpg
 description: |
 
 ---
- <div class="ui vertical stripe pad_140 visa_category" >
+
+<div class="ui vertical stripe pad_140 visa_category" >
         <div class="ui container">
         <p class="section_heading mb_40 theme_green text_center">Visa Categories</p>
         <div class="ui grid center-aligned stackable ">
@@ -15,20 +16,20 @@ description: |
                         <div class="ui segment">
                                 <div class="mb_20 mt_20" >
                                         <div class="ui icon header them-color mb_20">
-                                        <div class="circle_img theme_bg_yellow">
-                                                <img src="images/cat2.png">   
-                                        </div>
+                                                <div class="circle_img theme_bg_yellow">
+                                                        <img src="images/cat2.png">   
+                                                </div>
                                         </div>
                                 </div>
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
-                                                <a class="theme_green" href="#">Business immigration</a></h4>
-                                        <p class="p_16 mt_20">Migrate as a skilled worker.</p>
+                                                <a class="theme_green" href="canadian-business-immigration.html">Business immigration</a></h4>
+                                        <p class="p_16 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
                                 </div>
                                 <div class="more_info mb_20">
-                                <a class="theme_yellow" href="#">More Info
-                                        <i class="fa fa-arrow-right"></i>
-                                </a>
+                                        <a class="theme_yellow" href="canadian-business-immigration.html">More Info
+                                                <i class="fa fa-arrow-right"></i>
+                                        </a>
                                 </div>
                         </div>
                 </div>
@@ -36,20 +37,20 @@ description: |
                         <div class="ui segment">
                                 <div class="mb_20 mt_20" >
                                         <div class="ui icon header them-color mb_20">
-                                        <div class="circle_img theme_bg_yellow">
-                                                <img src="images/cat1.png">   
-                                        </div>
+                                                <div class="circle_img theme_bg_yellow">
+                                                        <img src="images/cat1.png">   
+                                                </div>
                                         </div>
                                 </div>
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
-                                                <a class="theme_green" href="#">Work Permits</a></h4>
-                                        <p class="p_16 mt_20">Migrate as a skilled worker</p>
+                                                <a class="theme_green" href="canadian-work-permits.html">Work Permits</a></h4>
+                                        <p class="p_16 mt_20">Find out if you need a Canadian temporary work permit to work in Canada and how to obtain one.</p>
                                 </div>
                                 <div class="more_info mb_20">
-                                <a class="theme_yellow" href="#">More Info
-                                        <i class="fa fa-arrow-right"></i>
-                                </a>
+                                        <a class="theme_yellow" href="canadian-work-permits.html">More Info
+                                                <i class="fa fa-arrow-right"></i>
+                                        </a>
                                 </div>
                         </div>
                 </div>
@@ -64,11 +65,11 @@ description: |
                                 </div>
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
-                                                <a class="theme_green" href="#">Immigrate to Canada</a></h4>
-                                        <p class="p_16 mt_20">Migrate as a skilled worker</p>
+                                                <a class="theme_green" href="canadian-immigration.html">Immigrate to Canada</a></h4>
+                                        <p class="p_16 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
                                 </div>
                                 <div class="more_info mb_20">
-                                <a class="theme_yellow" href="#">More Info
+                                <a class="theme_yellow" href="canadian-immigration.html">More Info
                                         <i class="fa fa-arrow-right"></i>
                                 </a>
                                 </div>
@@ -85,11 +86,11 @@ description: |
                                 </div>
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
-                                                <a class="theme_green" href="#">Study in Canada</a></h4>
-                                        <p class="p_16 mt_20">Migrate as a skilled worker</p>
+                                                <a class="theme_green" href="study-in-canada.html">Study in Canada</a></h4>
+                                        <p class="p_16 mt_20">Get a degree from some of the best educational institutions in the world and open new doors to your future.                                        </p>
                                 </div>
                                 <div class="more_info mb_20">
-                                <a class="theme_yellow" href="#">More Info
+                                <a class="theme_yellow" href="study-in-canada.html">More Info
                                         <i class="fa fa-arrow-right"></i>
                                 </a>
                                 </div>

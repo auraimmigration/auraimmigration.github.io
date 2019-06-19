@@ -15,7 +15,7 @@
                         <img class="ui image logo" src="/images/logo-aura.png" alt="Aura Immigration"/>
                     </a>
                 </div>
-                <div class="thirteen wide tablet thirteen wide computer column">
+                <div class="thirteen wide tablet thirteen wide computer column pad_t_b">
                     <ul class="ui grid pull-right">
                         <li class="ui grid">
                             <div class="three wide mobile four wide tablet four wide computer column large_icons">
@@ -32,7 +32,7 @@
                             <div class="three wide mobile four wide tablet four wide computer column  large_icons">
                                 <i class="fa fa-envelope-open-o"></i>
                             </div>
-                            <div class="three wide mobile  twelve wide tablet thirteen wide mobile twelve wide computer column">
+                            <div class="three wide mobile  twelve wide tablet thirteen wide mobile twelve wide computer column pl-0">
                                 <p class="p_16">E-mail us</p>
                                     <p class="p_20">
                                         <a href="mailto:info@auraimmigration.com" data-action="call" class="">info@auraimmigration.com</a>
@@ -46,7 +46,7 @@
                             <div class="thirteen wide mobile  twelve wide tablet twelve wide computer column">
                                 <p class="p_16">Opening Time</p>
                                     <p class="p_20">
-                                        <a href="tel:1234567890" data-action="call" class="item">08.00 - 18.00</a>
+                                        <a>08.00 - 18.00</a>
                                     </p>    
                             </div>
                         </li>
@@ -56,56 +56,55 @@
   </div>
   <div class="navbar_header">
         <div class="ui container">
-                <div class=" sixteen wide tablet twelve wide computer column  grid right floated nopadding-tablet">
-                    <div class="left aligned sixteen wide tablet eight wide column ">
-                        <div class="ui stackable menu menu-responsive m_0">
-                            <div class="ui dropdown aura-link">
-                                <a {% if page.url == "/about.html" %}class="active "{% endif %} href="about.html" class="item">About</a>
-                                    <i class="fa fa-caret-down"></i>
-                                <div class="ui menu">
-                                    <a class="" href="/archive.html">Archive</a>
-                                    <a class="" href="/events.html">Events</a>
-                                    <a class="" href="/services.html">Services</a>
-                                </div>
-                                <div class="ui mobile">
-                                    <a class="" href="/archive.html">Archive</a>
-                                    <a class="" href="/events.html">Events</a>
-                                    <a class="" href="/services.html">Services</a>
-                                </div>
-                            </div>
-                            <a  {% if page.url == "/services.html" %}class="active"{% endif %} href="/services.html">
-                                services
+            <div class="ui grid m_0">
+                    <div class="four wide column">
+                            <a class=" item" href="/index.html">
+                                <img class=" appicon_logo" src="/images/app-icon.png" alt="Aura Immigration"/>
                             </a>
-                            <div class="ui dropdown aura-link">
-                                <a {% if page.url == "/visa_category.html" %}class="active "{% endif %} href="/visa_category.html" class="item">Visa Categories</a>
-                                    <i class="fa fa-caret-down"></i>
-                                <div class="ui menu">
-                                    <a class="" href="/canadian-business-immigration.html">Business Immigration</a>
-                                    <a class="" href="/canadian-work-permits.html">Work Permits</a>
-                                    <a class="" href="/canadian-immigration.html">Immigrate to Canada</a>
-                                </div>
-                                <div class="ui mobile">
-                                    <a class="" href="/archive.html">Archive</a>
-                                    <a class="" href="/events.html">Events</a>
-                                    <a class="" href="/services.html">Services</a>
-                                </div>
-                            </div>
-                            <!-- <a {% if page.url == "/immigrationto.html" %}class="active"{% endif %}   href="immigrationto.html">
-                                immigration to
-                            </a>
-                            <a {% if page.url == "/pricing.html" %}class="active"{% endif %}  href="/pricing.html">
-                                pricing
-                            </a>
-                            <a  {% if page.url == "/blog.html" %}class="active"{% endif %}  href="blog.html">
-                                news
-                            </a> -->
-                            <a {% if page.url == "/contact.html" %}class="active"{% endif %}   href="contact.html">
-                                Contacts
-                            </a>
-                        </div>
-                        <div class="mobile-menu"><i class="sidebar icon theme_yellow"></i> </div>
                     </div>
-                </div>
+                    <div class=" sixteen wide tablet twelve wide computer column  grid right floated nopadding-tablet">
+                            <div class="ui stackable menu menu-responsive m_0">
+                                <div class="ui dropdown aura-link">
+                                    <a {% if page.url == "/about.html" %}class="active "{% endif %} href="about.html" class="item">About</a>
+                                        <i class="fa fa-caret-down"></i>
+                                    <div class="ui menu">
+                                        <a class="" href="/archive.html">Archive</a>
+                                        <a class="" href="/events.html">Events</a>
+                                        <a class="" href="/services.html">Services</a>
+                                    </div>
+                                    <div class="ui mobile">
+                                        <a class="" href="/archive.html">Archive</a>
+                                        <a class="" href="/events.html">Events</a>
+                                        <a class="" href="/services.html">Services</a>
+                                    </div>
+                                </div>
+                                <a  {% if page.url == "/services.html" %}class="active"{% endif %} href="/services.html">
+                                    services
+                                </a>
+                                <div class="ui dropdown aura-link">
+                                    <a {% if page.url == "/visa_category.html" %}class="active "{% endif %} href="/visa_category.html" class="item">Visa Categories</a>
+                                        <i class="fa fa-caret-down"></i>
+                                    <div class="ui menu">
+                                        <a class="" href="/canadian-business-immigration.html">Business Immigration</a>
+                                        <a class="" href="/canadian-work-permits.html">Work Permits</a>
+                                        <a class="" href="/canadian-immigration.html">Immigrate to Canada</a>
+                                        <a class="" href="/study-in-canada.html">Study in Canada</a>
+                                    </div>
+                                    <div class="ui mobile">
+                                        <a class="" href="/canadian-business-immigration.html">Business Immigration</a>
+                                        <a class="" href="/canadian-work-permits.html">Work Permits</a>
+                                        <a class="" href="/canadian-immigration.html">Immigrate to Canada</a>
+                                        <a class="" href="/study-in-canada.html">Study in Canada</a>
+                                    </div>
+                                </div>
+                                <a {% if page.url == "/contact.html" %}class="active"{% endif %}   href="contact.html">
+                                    Contacts
+                                </a>
+                            </div>
+                            <div class="mobile-menu"><i class="sidebar icon theme_yellow"></i> </div>
+                        
+                    </div>
+            </div>
           </div>
   </div>
 </header>
