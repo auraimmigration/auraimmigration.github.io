@@ -123,13 +123,21 @@ main > header .ui.pointing.dropdown > .menu::after{left: 19%;}
 .aura-link .ui.menu {
     border: 1px solid #e7e7e7!important;
 }
-strong{
-    font-weight: 900;
+.aura-link .ui.menu::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: -27px;
+    background-color: #fff;
+    height: 27px;
+    z-index: 888;
+    width: 100%;
+}
+#immigration strong {
     color: #000;
+    font-weight: 900;
 }
-.min-header .ui.dropdown .menu{
-    top: 129%;
-}
+
 .learn-more:hover
 a {
     bottom: 0 !important;
@@ -484,6 +492,7 @@ header .navbar_header .four.wide.column{
     }
     .navbar_header {
         border-top: 1px solid #eee;
+        background-color: #fff;
     }
     .navbar_header .menu.menu-responsive a{
         font-family: 'Roboto', sans-serif;

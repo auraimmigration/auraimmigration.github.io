@@ -32,7 +32,7 @@ Aura Immigration Immigration and his team of specialists will be happy to help y
     I have not yet found the right school or have not yet been accepted. 
   </div>
   <div class="content">
-    <p class="transition hidden">Your first step is to find a Canadian school that interests you. No matter your educational goals, Canada has the perfect educational institution for you. Once you find that school, it's time to apply for admission. Only then will you be able to obtain your Canada Study Permit. Once you have found a few schools in which you are interested, Once you have received a letter of admission from a designated educational institution, you can then Fill the contact form or give us a call +1 778 246 3637.to learn more about how to begin studying in Canada.</p>
+    <p class="transition hidden">Your first step is to find a Canadian school that interests you. No matter your educational goals, Canada has the perfect educational institution for you. Once you find that school, it's time to apply for admission. Only then will you be able to obtain your Canada Study Permit. Once you have found a few schools in which you are interested, Once you have received a letter of admission from a designated educational institution, you can then Fill the <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080.</a> to learn more about how to begin studying in Canada.</p>
   </div>
   <div class="title">
     <i class="dropdown icon"></i>
@@ -47,24 +47,24 @@ Aura Immigration Immigration and his team of specialists will be happy to help y
   I am currently studying in Canada and would like to stay here after my studies are complete. 
   </div>
   <div class="content">
-    <p class="transition hidden">After completing your Canadian studies, Canada has provided ways to encourage you stay, gain work experience, or otherwise contribute to Canada's economy and culture. For example, you may be eligible for a Post-Graduation Work Permit. You may also be eligible for permanent immigration through the Canadian Experience Class or the Quebec Experience Class fill out our <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">604-712-0080</a>   for Canadian immigration to learn more about your options for remaining in Canada permanently after your studies. </p>
+    <p class="transition hidden">After completing your Canadian studies, Canada has provided ways to encourage you stay, gain work experience, or otherwise contribute to Canada's economy and culture. For example, you may be eligible for a Post-Graduation Work Permit. You may also be eligible for permanent immigration through the Canadian Experience Class or the Quebec Experience Class fill out our <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080.</a>   for Canadian immigration to learn more about your options for remaining in Canada permanently after your studies. </p>
   </div>
    <div class="title">
     <i class="dropdown icon"></i>
     I would like to work while studying. 
   </div>
   <div class="content">
-    <p class="transition hidden">It may be possible for you to work while studying in Canada. fill out our  <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">604-712-0080</a>   to know the options. </p>
+    <p class="transition hidden">It may be possible for you to work while studying in Canada. fill out our  <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080.</a>   to know the options. </p>
   </div>
 </div>
 
 ### Studying in Canada
-1. <strong>Canada Study Permit. </strong>  The standard way to study in Canada is with a Canadian study permit. Learn more about obtaining a Canadian study permit. Fill the <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080</a>. for more information
+1. <strong>Canada Study Permit. </strong>  The standard way to study in Canada is with a Canadian study permit. Learn more about obtaining a Canadian study permit. Fill the <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080.</a>. for more information
 
 2. <strong>Study without a Study Permit.</strong> Under certain circumstances, you can study in Canada without a study permit. Learn more about studying in Canada without a study permit.
-    Fill the <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080</a>. for more information
+    Fill the <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080.</a>. for more information
 
-3. <strong>Work While Studying in Canada.</strong> For those who need additional funds while studying in Canada, it may be possible to work at the same time. Learn more about working while studying in      Canada. Fill the <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080</a>. for more information
+3. <strong>Work While Studying in Canada.</strong> For those who need additional funds while studying in Canada, it may be possible to work at the same time. Learn more about working while studying in      Canada. Fill the <a href="/contact.html">contact form</a> or give us a <a href="tel:604-712-0080" data-action="call">call 604-712-0080.</a>. for more information
 
 
 ### Work after studying in Canada
