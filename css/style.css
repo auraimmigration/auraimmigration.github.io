@@ -8,7 +8,10 @@ main > header .ui.inverted.menu .active.item{background:none;border-radius:0;tex
 main > header .ui.inverted.menu .item::before{background:none}
 body > img{display:none}
 main > header .ui.inverted.menu .active.item{box-shadow:0 4px #008d4c}
-.logo{max-height:59px}
+.logo {
+    max-height: 100px;
+    margin-left: 15px;
+}
 main > header .item{text-transform:uppercase!important;border-radius:0!important}
 .top-bar-menu{background-color: #17beb7;padding: 20px 0;border-top: 3px solid #fecd2a;transition-duration: 0.4s;transition-property: background-color, border-color;}
 .top-bar-menu p{line-height: 1;}
@@ -70,6 +73,18 @@ footer{background-color:#272533;    padding: 70px 0;}
 .mobile{
     display: none;
 }
+p.bb-img {
+    display: none;
+}
+.ui.menu.menu-responsive {
+    display: inherit;
+    text-align: right;
+}
+#immigration ol li {
+    padding-left: 10px;
+    list-style-type: disc;
+    margin-left: 20px;
+}
 .aura-link:hover > .menu{
     display: block;
     min-width: 180px;
@@ -105,6 +120,24 @@ main > header .ui.pointing.dropdown > .menu::after{left: 19%;}
 .clients_more a{    bottom: 490px;left: 0;right: 0;display: flex;top: 0px;position: absolute;font-size: 1.2rem;height: 40px;border-radius: 4px;color: #fff;justify-content: center;margin: auto;align-items: center;width: 20%;background-color: #ff5722;padding: 25px 0px;border: 3px solid #e74d1d;}
 .Client{ border: none !important;    background: none;    margin: 0px !important;    padding-bottom: 30px;     pointer-events: none;}
 .Client .column img{box-shadow: none !important; }
+.aura-link .ui.menu {
+    border: 1px solid #e7e7e7!important;
+}
+.aura-link .ui.menu::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: -27px;
+    background-color: #fff;
+    height: 27px;
+    z-index: 888;
+    width: 100%;
+}
+#immigration strong {
+    color: #000;
+    font-weight: 900;
+}
+
 .learn-more:hover
 a {
     bottom: 0 !important;
@@ -154,9 +187,15 @@ a.size-small{
 }
 .mobile-slide img{width: 100%; max-width: 231px; margin-top:30px !important;}
 /* css aura */
+.appicon_logo {
+    max-width: 60px!important;
+}
 a {
     outline: none !important;
     transition:.3s;
+}
+header .navbar_header .four.wide.column{
+    display: none;
 }
 .navbar_header .menu.menu-responsive a.active {
     color: #fecd2a;
@@ -239,6 +278,9 @@ a {
     .pad_30_0{
         padding:30px 0;
     }
+    .pad_t_b{
+        padding: 22px 0!important;
+    }
     .mt_50{
         margin-top: 50px!important
     }
@@ -249,7 +291,7 @@ a {
         padding-bottom: 5px!important;
     }
     .pl-0{
-        padding-left: 0;
+        padding-left: 0!important;
     }
     .pr-0{
      padding-right: 0;
@@ -308,6 +350,64 @@ a {
         font-size: 42px;
         line-height: 0.9;
         letter-spacing: 0px;
+    }
+    #immigration a.size-small {
+        padding: 8px 25px;
+        text-transform: none;
+        font-weight: 500;
+    }
+    .imm_prog h3.theme_green {
+        font-size: 25px;
+    }
+    #immigration h1.section_heading {
+        font-weight: 300;
+        cursor: pointer;
+        font-style: normal;
+        font-family: 'robotolight';
+        font-size: 42px;
+        line-height: 0.9;
+        letter-spacing: 0px;
+    }
+    #immigration h4 {
+        font-weight: 300;
+        margin-bottom: 40px;
+        cursor: pointer;
+        position: relative;
+        font-style: normal;
+        font-family: 'robotolight';
+        font-size: 32px;
+        line-height: 0.9;
+        letter-spacing: 0px;
+        color: #17beb7;
+    }
+    #immigration h1 {
+        font-weight: 300;
+        margin-bottom: 40px;
+        cursor: pointer;
+        position: relative;
+        font-style: normal;
+        font-family: 'robotolight';
+        font-size: 32px;
+        line-height: 0.9;
+        letter-spacing: 0px;
+        color: #17beb7;
+        padding-left: 70px;
+    }
+    #immigration h1::after {
+        position: absolute;
+        content: "";
+        left: 0;
+        height: 2px;
+        width: 60px;
+        background-color: #17beb7;
+        top: 15px;
+    }
+    #immigration .ui.styled.accordion {
+        width: 100%;
+    }
+    #immigration p a:hover {
+        text-decoration: underline;
+        color: #fecd2a;
     }
     .large_icons{
             font-weight: 300;
@@ -384,6 +484,7 @@ a {
         font-style: normal;
         background-color: transparent!important;
         color: #fecd2a!important;
+        text-decoration: none!important;
     }
     .logo_header{    display: inline-block;
         cursor: pointer;
@@ -391,6 +492,7 @@ a {
     }
     .navbar_header {
         border-top: 1px solid #eee;
+        background-color: #fff;
     }
     .navbar_header .menu.menu-responsive a{
         font-family: 'Roboto', sans-serif;
@@ -467,7 +569,7 @@ a {
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
-        padding: 230px 0;
+        padding: 264px 0;
     }
     .heading_banner{
         font-weight: 300;
@@ -489,7 +591,7 @@ a {
     background-color: rgba(39,190,183,0.7);
     transition-duration: 0.4s;
     transition-property: background-color, border-color;
-    padding: 30px 0 50px 0;
+    padding: 50px 0 50px 0;
     text-align: center;
     }
     /* privacy_pol */
@@ -879,6 +981,12 @@ a {
         font-size: 13px;
         margin:0 10px;
     }
+    .logo {
+        max-height: 45px;
+    }
+    .logo-rs.nopadding {
+        padding: 1rem!important;
+    }
     .mt_30{
         margin-top: 20px;
     }
@@ -1131,6 +1239,31 @@ a {
 @media(max-width:767px) {
     .banner_widget{
         padding: 20px;
+    }
+    #immigration h1 {
+        font-size: 26px;
+        padding-left: 0;
+    }
+    #immigration h4{
+        font-size: 24px;
+    }
+    #immigration h1::after{
+        display: none;
+    }
+    .imm_prog h3.theme_green {
+        font-size: 20px;
+    }
+    .navbar_header .floated.nopadding-tablet {
+        padding-bottom: 0!important;
+    }
+    .pad_t_b {
+        padding: 1rem!important;
+    }
+    .logo {
+        max-height: 60px;
+    }
+    .pad_t_b .pl-0 {
+        padding-left: 1rem!important;
     }
     .blog a.ui.facebook {
         margin-bottom: 10px;

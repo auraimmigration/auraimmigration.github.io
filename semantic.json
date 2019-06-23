@@ -19,5 +19,5 @@
   "permission": false,
   "autoInstall": false,
   "rtl": false,
-  "components": ["site", "grid", "container", "icon", "tab", "input", "label", "menu", "form", "table", "divider","item","modal", "dropdown", "sidebar", "image", "state", "segment", "reset", "transition","header","statistic","button","card","dimmer"]
+  "components": ["site", "grid", "container", "icon", "tab", "input", "label", "menu", "form", "table", "divider","item","modal", "dropdown", "sidebar", "image", "state", "segment", "reset", "transition","header","statistic","button","card","dimmer","accordion"]
 }

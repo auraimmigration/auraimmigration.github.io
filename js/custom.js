@@ -1,4 +1,6 @@
 jQuery(document).ready(function($) {
+
+
     $('.req_modal').click(function(){
         $('.ui.modal').modal('show');
     });
@@ -28,11 +30,13 @@ jQuery(document).ready(function($) {
         if ($(window).width() > 768) {
             if (wd >= 180) {
                 $("main > header .navbar_header").addClass("min-header");
-                $(".min-header .logo").attr("src", "/images/logo-aura.png");
+                $("header .navbar_header .four.wide.column").show();
+                $("main > header .navbar_header .wide.column").css("padding", "1rem");
             }
             else {
-                $(".min-header .logo").attr("src", "/images/logo-aura.png");
+                $("header .navbar_header .four.wide.column").hide();
                 $("main > header .navbar_header").removeClass("min-header");
+                $("main > header .navbar_header .wide.column").css("padding", "0");
             }
         }
     }
@@ -73,5 +77,6 @@ jQuery(document).ready(function($) {
         });
     banner_inner_load();
 
+    $('.ui.accordion').accordion();
 
 });
