@@ -1,5 +1,3 @@
-<img src="https://s3-ap-southeast-1.amazonaws.com/cdn.auraImmigration.com/images/favicon.png" width="32px" height="32px" />
-
 
 how to work with new jekyll
 -------
