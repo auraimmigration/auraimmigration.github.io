@@ -24,7 +24,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">Address</div>
                             <div class="p_16 mb_20">
-                                  2130 Fulton Street San Diego, CA 94117-1080 USA
+                                  Unit 271 8128 128<small>th</small> Street Surrey, BC V3W 1R1
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,6 @@ description: |
                             <div class="p_20 mb_20 theme_green">Phone</div>
                             <div class="p_16 mb_20">
                                   <p>604-712-0080</p>
-                                 <p> 604-712-0080</p>
                             </div>
                         </div>
                     </div>
