@@ -1283,6 +1283,9 @@ header .navbar_header .four.wide.column{
     .banner_widget{
         padding: 20px;
     }
+    .pad_100{
+        padding: 30px 0;
+    }
     #immigration h1 {
         font-size: 26px;
         padding-left: 0;
