@@ -65,7 +65,7 @@ description: |
                         </iframe>
                         </div>
                         <div class="sixteen wide mobile eight wide tablet nine wide computer  column">
-                                <p class="left_p white">Would you like to speak to one of our consultant over phone?</p>
+                                <p class="left_p white">Would you like to speak to one of our consultants over phone?</p>
                         </div>
                 </div>
         </div>

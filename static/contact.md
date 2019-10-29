@@ -11,7 +11,7 @@ description: |
     <div class="ui container">
         <div class="ui two column centered grid stackable">
           <div class="column">
-                    <p class="p_20 text_center">Would you like to speak to one of our consultant? Choose your way of communication.</p>
+                    <p class="p_20 text_center">Would you like to speak to one of our consultants? Choose your way of communication.</p>
           </div>
         </div>
         <div class="ui grid stackable centered aligned mt_50">
@@ -82,7 +82,7 @@ description: |
    <div class="ui container">
       <div class="ui grid centered middle aligned four column text_center " style="    z-index: 999; position: relative;">
         <div class="sixteen wide mobile eight wide tablet nine wide computer  column">
-                <p class="left_p white">Would you like to speak to one of our consultant over phone?</p>
+                <p class="left_p white">Would you like to speak to one of our consultants over phone?</p>
         </div>
          <div class="sixteen wide mobile eight wide tablet seven wide computer column p_0 ">
             <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-BQ5z6hRaLDsuIk4LmMu69DLyAUc7onF7V5HzicgmIZ70Zg/viewform?embedded=true" width="100%" height="680" frameborder="0" marginheight="0" marginwidth="0">Loading...
