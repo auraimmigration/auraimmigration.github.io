@@ -13,7 +13,7 @@ main > header .ui.inverted.menu .active.item{box-shadow:0 4px #008d4c}
     margin-left: 15px;
 }
 main > header .item{text-transform:uppercase!important;border-radius:0!important}
-.top-bar-menu{background-color: #17beb7;padding: 20px 0;border-top: 3px solid #fecd2a;transition-duration: 0.4s;transition-property: background-color, border-color;}
+.top-bar-menu{background-color: #17beb7;padding: 20px 0;border-top: 3px solid #17beb7;transition-duration: 0.4s;transition-property: background-color, border-color;}
 .top-bar-menu p{line-height: 1;}
 .top-bar-menu a{color:#fff;display:block;width:100%}
 footer{background-color:#272533;    padding: 70px 0;}
@@ -374,6 +374,9 @@ header .navbar_header .four.wide.column{
         text-transform: none;
         font-weight: 500;
     }
+    .yellow_color{
+        color: #fecd2a;
+    }
     .imm_prog h3.theme_green {
         font-size: 25px;
     }
@@ -696,10 +699,11 @@ header .navbar_header .four.wide.column{
     /* about sec */
     .about_sec{
         padding: 100px 0;
-        background-image: url('../images/about-sec.jpg');
-        background-position: top;
+        background-image: url(../images/about-sec.jpg);
+        background-position: right;
         background-repeat: no-repeat;
-        background-size: cover;
+        background-color: #e8e9eb;
+        background-size: contain;
     }
     .need_help a{
         text-decoration: none;
@@ -730,8 +734,14 @@ header .navbar_header .four.wide.column{
     }
     .our_services a.button_style2 {
         position: absolute;
-        left: 1rem;
-        bottom: 1rem;
+        left: 0;
+        bottom: 0;
+        text-transform: capitalize;
+        right: 0;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        font-size: 15px;
     }  
     .our_services a.button_style2:hover {
        color:#fff;
