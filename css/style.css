@@ -511,6 +511,7 @@ header .navbar_header .four.wide.column{
     .navbar_header {
         border-top: 1px solid #eee;
         background-color: #fff;
+        z-index: 9999;
     }
     .navbar_header .menu.menu-responsive a{
         font-family: 'Roboto', sans-serif;
@@ -773,12 +774,23 @@ header .navbar_header .four.wide.column{
     }
     /* request_callback */
     .request_callback{
-        background-image: url('../images/request-callback.jpg');
+        background-image: url('../images/canada_contact.jpg');
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
+        position: relative;
         padding: 20px 0 0 0;
+    }
+    section.request_callback::after {
+        position: absolute;
+        content: "";
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.7);
+        z-index: 0;
     }
     .request_callback .left_p{
         font-weight: 300;
