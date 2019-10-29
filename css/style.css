@@ -270,6 +270,20 @@ header .navbar_header .four.wide.column{
         float: left;
         width: 100%;
     }
+    .about_sec p.section_heading::after {
+        height: 2px;
+        width: 100px;
+        background: #fff;
+        position: absolute;
+        content: "";
+        left: 0;
+        bottom: -15px;
+    }
+    .about_sec p.section_heading {
+        position: relative;
+        font-size: 32px;
+        margin-bottom:30px!important;
+    }
     .pad-20{
      padding: 20px;
     }
@@ -318,6 +332,9 @@ header .navbar_header .four.wide.column{
     }
     .pad_140{
         padding: 140px 0;
+    }
+    .pad_100{
+        padding: 100px 0;
     }
     .mb_10{
         margin-bottom: 10px;
@@ -494,6 +511,7 @@ header .navbar_header .four.wide.column{
     .navbar_header {
         border-top: 1px solid #eee;
         background-color: #fff;
+        z-index: 9999;
     }
     .navbar_header .menu.menu-responsive a{
         font-family: 'Roboto', sans-serif;
@@ -693,6 +711,19 @@ header .navbar_header .four.wide.column{
     .need_help a:hover{
         color: #fecd2a;  
     }
+    .upppercase{
+        text-transform: uppercase;
+    }
+    .about_sec a{
+        text-decoration: none;
+        font-weight: 300;
+        font-style: normal;
+        color: #fecd2a;
+        transition: 0.3s;
+    }
+    .about_sec a:hover{
+        color: #fff;  
+    }
     .about_sec .ui.segment {
         border-radius: 0;
         border: none;
@@ -743,12 +774,23 @@ header .navbar_header .four.wide.column{
     }
     /* request_callback */
     .request_callback{
-        background-image: url('../images/request-callback.jpg');
+        background-image: url('../images/canada_contact.jpg');
         background-position: top;
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
+        position: relative;
         padding: 20px 0 0 0;
+    }
+    section.request_callback::after {
+        position: absolute;
+        content: "";
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.7);
+        z-index: 0;
     }
     .request_callback .left_p{
         font-weight: 300;
@@ -1240,6 +1282,9 @@ header .navbar_header .four.wide.column{
 @media(max-width:767px) {
     .banner_widget{
         padding: 20px;
+    }
+    .pad_100{
+        padding: 30px 0;
     }
     #immigration h1 {
         font-size: 26px;

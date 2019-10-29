@@ -24,7 +24,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">Address</div>
                             <div class="p_16 mb_20">
-                                  2130 Fulton Street San Diego, CA 94117-1080 USA
+                                  Unit 271 8128 128<small>th</small> Street Surrey, BC V3W 1R1
                             </div>
                         </div>
                     </div>
@@ -40,7 +40,6 @@ description: |
                             <div class="p_20 mb_20 theme_green">Phone</div>
                             <div class="p_16 mb_20">
                                   <p>604-712-0080</p>
-                                 <p> 604-712-0080</p>
                             </div>
                         </div>
                     </div>
@@ -55,8 +54,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">E-mail</div>
                             <div class="p_16 mb_20">
-                                  info@auraimmigration.com
-                                  www.auraimmigration.com
+                                   <a href="mailto:info@auraimmigration.com" data-action="call" class="" style="color:#fecd2a;">info@auraimmigration.com</a>
                             </div>
                         </div>
                     </div>
@@ -71,7 +69,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">Opening hours</div>
                             <div class="p_16 mb_20">
-                                  Mon-Sun: 7am - 7pm
+                                  Mon-Sat: 10am - 6pm
                             </div>
                         </div>
                     </div>
@@ -81,15 +79,15 @@ description: |
     </div>
 </div>
 <section class="request_callback" >
-        <div class="ui container">
-            <div class="ui grid centered middle aligned four column text_center ">
-                    <div class="sixteen wide mobile eight wide tablet seven wide computer column p_0 ">
-                        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-BQ5z6hRaLDsuIk4LmMu69DLyAUc7onF7V5HzicgmIZ70Zg/viewform?embedded=true" width="100%" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading...
-                        </iframe>
-                    </div>
-                        <div class="sixteen wide mobile eight wide tablet nine wide computer  column">
-                                <p class="left_p white">Would you like to speak to one of ourconsultant over phone?</p>
-                    </div>
-            </div>
+   <div class="ui container">
+      <div class="ui grid centered middle aligned four column text_center " style="    z-index: 999; position: relative;">
+        <div class="sixteen wide mobile eight wide tablet nine wide computer  column">
+                <p class="left_p white">Would you like to speak to one of our consultant over phone?</p>
         </div>
+         <div class="sixteen wide mobile eight wide tablet seven wide computer column p_0 ">
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc-BQ5z6hRaLDsuIk4LmMu69DLyAUc7onF7V5HzicgmIZ70Zg/viewform?embedded=true" width="100%" height="650" frameborder="0" marginheight="0" marginwidth="0">Loading...
+            </iframe>
+         </div>
+      </div>
+   </div>
 </section>
