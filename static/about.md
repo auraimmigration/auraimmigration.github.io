@@ -12,124 +12,33 @@ description: |
             <div class="ui grid center-aligned stackable ">
                     <div class="ten wide tablet ten wide computer column sixteen wide mobile">
                         <div class="ui segment p_50 theme_bg_green white">
-                                <p class="section_heading mb_20 theme_green white">About Us</p>
-                                <p class="p_20 mb_30 white">Welcome to aura immigration.</p>
+                                <p class="section_heading mb_20 theme_green white">About Our Aura Immigration</p>
+                                <p class="p_20 mb_30 white">Who We are and what we do.</p>
                                 <p class="p_16 mb_30 white">
-                                        Our immigration  was established in 2000, aura is a private immigration company
-                                            with a team of highly experienced migration consultants for the Canada, USA,
-                                            Europe and Australia clients from across the globe wishing to apply for a visa.
-                                            aura immigration provides fee-based services in addition to the official government 
-                                            charges to advise, assist and represent our clients through the often-complex visa 
-                                            application process.
+                                        <a href="">Sandeep Spall</a>, and <a href="">Vidushi Kapoor</a> the Aura Immigration, has particular expertise in all areas related to Canadian immigration matters and provides representation and advice to foreign nationals who are looking to obtain a Canada visa and enter Canada on a permanent or temporary basis.
                                 </p>
-                                <p class="p_26 need_help white">
+                                <p class="p_20 need_help white">
                                         <span class="moto-color5_5"><strong>Need a consultation?</strong> Call us today </span>
-                                        <a data-action="call" href="tel:1234567890">1-888-123-45678</a>
-                                        <span class="moto-color5_5">&nbsp; or&nbsp; e-mail us: </span>
-                                        <a data-action="mail"  href="mailto:info@demolink.org">info@demolink.org</a>
+                                        <a data-action="call" href="tel:1234567890">604-712-0080</a><br>
+                                        <span class="moto-color5_5"> or&nbsp; e-mail us: </span>
+                                        <a href="mailto:info@auraimmigration.com" data-action="call" class="">info@auraimmigration.com</a>
                                 </p>
                         </div>
                     </div>
             </div>
         </div>
     </div>
- <div class="ui vertical stripe pad_140 theme_bg_green  statistic_sec" >
-    <div class="ui container">
-        <div class="ui grid center-aligned stackable ">
-                <div class="eight wide computer column eight wide tablet sixteen wide mobile center aligned">
-                        <div class="ui statistic ">
-                            <div class="value white">
-                                Our Vision
-                            </div>
-                            <div class="mb_20 mt_20">
-                                    <hr class="moto-widget-divider-line" style="max-width:100%;width:45px; margin:0 auto; border:2px solid #fff;">
-                            </div>
-                            <div class="text_center white p_16">
-                                   Integrity, dedication and service. Upholding the integrity of the US legal system along with information of all our past and present clients, while providing the best service to our clients.
-                            </div>
-                        </div>
-                </div>
-                <div class="eight wide computer column eight wide tablet sixteen wide mobile center aligned">
-                        <div class="ui statistic ">
-                            <div class="value white">
-                                 Our Mission
-                            </div>
-                            <div class="mb_20 mt_20">
-                                    <hr class="moto-widget-divider-line" style="max-width:100%;width:45px; margin:0 auto; border:2px solid #fff;">
-                            </div>
-                            <div class="text_center white p_16">
-                                    To help families, businesses and students with latest news and updates, before they take their first step and start a new life.
-                            </div>
-                        </div>
-                </div>
-        </div>
-    </div>
-</div>
-<div class="ui vertical stripe pad_140 our_services" >
-    <div class="ui container">
-        <div class="ui grid center-aligned stackable">
-                <div class="sixteen wide tablet four wide computer column sixteen wide mobile">
-                            <p class="section_heading mb_30 theme_green">Our Services</p>
-                            <p class="p_16 mb_30">We give your immigration case the personal attention it deserves & help you settle in the country of your choice.
-                                </p>
-                </div>
-                <div class="sixteen wide tablet sixteen wide mobile twelve wide computer column">
-                    <div class="ui grid three column row stackable column">
-                        <div class="column">
-                                <div class="ui image fluid">
-                                        <img src="images/services1.jpg">
-                                </div>
-                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
-                        </div>
-                        <div class="column">
-                                <div class="ui image fluid">
-                                        <img src="images/services2.jpg">
-                                </div>
-                                <a href="services.html" class="button_style2 theme_bg_yellow">Eligibility Assessment</a>
-                        </div>
-                        <div class="column">
-                                <div class="ui image fluid">
-                                        <img src="images/services3.jpg">
-                                </div>
-                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
-                        </div>
-                        <div class="column">
-                                <div class="ui image fluid">
-                                        <img src="images/services4.jpg">
-                                </div>
-                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
-                        </div>
-                        <div class="column">
-                                <div class="ui image fluid">
-                                        <img src="images/services5.jpg">
-                                </div>
-                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
-                        </div>
-                        <div class="column">
-                                <div class="ui image fluid">
-                                        <img src="images/services6.jpg">
-                                </div>
-                                <a href="services.html" class="button_style2 theme_bg_yellow">Consultation</a>
-                        </div>
-                    </div>
-                </div>
-        </div>
-    </div>
-</div>
-<div class="ui vertical stripe pad_140 client_say gray_bg" >
+<div class="ui vertical stripe pad_100 client_say"  style="    background-image: url(images/bgcanada.jpg);
+    background-attachment: fixed;">
         <div class="ui container">
-                <p class="section_heading mb_40 theme_green text_center">Our Team</p>
                 <div class="ui grid three column row stackable centered aligned">
                     <div class="column">
                         <div class="ui link">
                             <div class=" m-0-auto">
-                                <div class="mb_20">
-                                    <img class="ui centered image" src="images/about-team1.jpg">
-                                </div>
-                                <div class="text_center mt_20 wrap-div">
-                                    <div class="p_20 mb_20"><p class="theme_green" href="#">Andy Rodriguez</p></div>
+                                <div class="text_center mt_20 wrap-div bg_white pad-20" style="border: 1px solid #f3f3f3;">
+                                    <div class="p_26 mb_20 upppercase"><p class="theme_green" href="#">Sandeep spall</p></div>
                                     <div class="p_16 mb_20">
-                                            CEO and Founder
+                                           ICCRC Member & Director - Immigration Consultant at Aura immigration and placements.
                                     </div>
                                 </div>
                             </div>
@@ -138,28 +47,23 @@ description: |
                     <div class="column">
                         <div class="ui link">
                             <div class=" m-0-auto">
-                                <div class="mb_20">
-                                    <img class="ui centered image" src="images/about-team2.jpg">
-                                </div>
-                                <div class="text_center mt_20 wrap-div">
-                                    <div class="p_20 mb_20"><p class="theme_green" href="#">Andy Rodriguez</p></div>
+                                <div class="text_center mt_20 wrap-div gray_bg pad-20" style="background-color: #fff5d5; border-top: 4px solid #fecd2a;">
+                                    <div class="p_26 mb_20 upppercase"><p class="theme_green" href="#">OUR PROMISE</p></div>
                                     <div class="p_16 mb_20">
-                                            CEO and Founder
+                                           You don't have to worry when we are here, Aura is very famous and always received an appreciations from our clients. we are here in surrey for more than 10 years and we have Skilled staff to help our client.<br><br>
+                                           Our main is focused on getting clients to Canada in the shortest possible time through a variety of avenues, including finding work in Canada.
                                     </div>
-                                </div>
+                                </div>      
                             </div>
                         </div>
                     </div>
                     <div class="column">
                         <div class="ui link">
                             <div class=" m-0-auto">
-                                <div class="mb_20">
-                                    <img class="ui centered image" src="images/about-team3.jpg">
-                                </div>
-                                <div class="text_center mt_20 wrap-div">
-                                    <div class="p_20 mb_20"><p class="theme_green" href="#">Andy Rodriguez</p></div>
+                                <div class="text_center mt_20 wrap-div bg_white pad-20" style="border: 1px solid #f3f3f3;">
+                                    <div class="p_26 mb_20 upppercase"><p class="theme_green" href="#">Vidushi Kapoor</p></div>
                                     <div class="p_16 mb_20">
-                                            CEO and Founder
+                                           ICCRC Member & Director - Immigration Consultant at Aura immigration and placements.
                                     </div>
                                 </div>
                             </div>

@@ -54,8 +54,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">E-mail</div>
                             <div class="p_16 mb_20">
-                                  info@auraimmigration.com
-                                  www.auraimmigration.com
+                                   <a href="mailto:info@auraimmigration.com" data-action="call" class="">info@auraimmigration.com</a>
                             </div>
                         </div>
                     </div>
@@ -70,7 +69,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">Opening hours</div>
                             <div class="p_16 mb_20">
-                                  Mon-Sun: 7am - 7pm
+                                  Mon-Sat: 10am - 6pm
                             </div>
                         </div>
                     </div>

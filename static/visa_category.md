@@ -24,7 +24,7 @@ description: |
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
                                                 <a class="theme_green" href="canadian-business-immigration.html">Business immigration</a></h4>
-                                        <p class="p_16 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
+                                        <p class="p_14 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
                                 </div>
                                 <div class="more_info mb_20">
                                         <a class="theme_yellow" href="canadian-business-immigration.html">More Info
@@ -45,7 +45,7 @@ description: |
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
                                                 <a class="theme_green" href="canadian-work-permits.html">Work Permits</a></h4>
-                                        <p class="p_16 mt_20">Find out if you need a Canadian temporary work permit to work in Canada and how to obtain one.</p>
+                                        <p class="p_14 mt_20">Find out if you need a Canadian temporary work permit to work in Canada and how to obtain one.</p>
                                 </div>
                                 <div class="more_info mb_20">
                                         <a class="theme_yellow" href="canadian-work-permits.html">More Info
@@ -66,7 +66,7 @@ description: |
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
                                                 <a class="theme_green" href="canadian-immigration.html">Immigrate to Canada</a></h4>
-                                        <p class="p_16 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
+                                        <p class="p_14 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
                                 </div>
                                 <div class="more_info mb_20">
                                 <a class="theme_yellow" href="canadian-immigration.html">More Info
@@ -87,7 +87,7 @@ description: |
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
                                                 <a class="theme_green" href="study-in-canada.html">Study in Canada</a></h4>
-                                        <p class="p_16 mt_20">Get a degree from some of the best educational institutions in the world and open new doors to your future.                                        </p>
+                                        <p class="p_14 mt_20">Get a degree from some of the best educational institutions in the world and open new doors to your future.                                        </p>
                                 </div>
                                 <div class="more_info mb_20">
                                 <a class="theme_yellow" href="study-in-canada.html">More Info
