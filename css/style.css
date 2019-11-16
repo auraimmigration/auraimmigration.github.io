@@ -699,11 +699,11 @@ header .navbar_header .four.wide.column{
     /* about sec */
     .about_sec{
         padding: 100px 0;
-        background-image: url(../images/about-sec.jpg);
+        background-image: url(../images/victoria-p.jpg);
         background-position: right;
         background-repeat: no-repeat;
         background-color: #e8e9eb;
-        background-size: contain;
+        background-size: cover;
     }
     .need_help a{
         text-decoration: none;

@@ -24,7 +24,7 @@ description: |
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
                                                 <a class="theme_green" href="canadian-business-immigration.html">Business immigration</a></h4>
-                                        <p class="p_14 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
+                                        <p class="p_14 mt_20">Make your goal of moving to Canada a reality by exploring available ways to immigrate.</p>
                                 </div>
                                 <div class="more_info mb_20">
                                         <a class="theme_yellow" href="canadian-business-immigration.html">More Info
@@ -66,7 +66,7 @@ description: |
                                 <div class="mt_20 mb_30">
                                         <h4 class="ui single_category_head">
                                                 <a class="theme_green" href="canadian-immigration.html">Immigrate to Canada</a></h4>
-                                        <p class="p_14 mt_20">Make your goal of moving to Canada a reality by exploring over 60 available ways to immigrate.</p>
+                                        <p class="p_14 mt_20">Make your goal of moving to Canada a reality by exploring available ways to immigrate.</p>
                                 </div>
                                 <div class="more_info mb_20">
                                 <a class="theme_yellow" href="canadian-immigration.html">More Info
