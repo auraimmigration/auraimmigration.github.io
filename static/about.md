@@ -31,15 +31,15 @@ description: |
                         <div class="ui link">
                             <div class=" m-0-auto">
                                 <div class="text_center mt_20 wrap-div gray_bg pad-20" style="border: 1px solid #f3f3f3;">
-                                    <div class="p_26 mb_20 upppercase"><p class="theme_green" href="#">Sandeep spall</p></div>
+                                    <div class="p_26 mb_20 upppercase"><p class="theme_green" href="#">Sandeep spall & Vidushi Kapoor</p></div>
                                     <div class="p_16 mb_20">
-                                           ICCRC Member & Director - Immigration Consultant at Aura immigration and placements.
+                                           At Aura immigration and placements.
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="column">
+<!--                     <div class="column">
                         <div class="ui link">
                             <div class=" m-0-auto">
                                 <div class="text_center mt_20 wrap-div gray_bg pad-20" style="border: 1px solid #f3f3f3;">
@@ -50,7 +50,7 @@ description: |
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
         </div>
 </div>
