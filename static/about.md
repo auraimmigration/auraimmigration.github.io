@@ -14,7 +14,7 @@ description: |
                         <div class="ui segment p_50 theme_bg_green white">
                                 <p class="section_heading mb_20 theme_green white">Our Promise</p>
                                 <p class="p_16 mb_20 white">
-                                        You don't have to worry when we are here, Aura is very famous and always received an appreciations from our clients. we are here in surrey for more than 10 years and we have Skilled staff to help our client.
+                                        You don't have to worry when we are here, Aura is very famous and always received an appreciation from our clients. we are here in surrey for more than 10 years and we have Skilled staff to help our client.
                                 </p>
                                 <p class="p_16 mb_30 white">
                                       Our main is focused on getting clients to Canada in the shortest possible time through a variety of avenues, including finding work in Canada.
