@@ -54,7 +54,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">E-mail</div>
                             <div class="p_16 mb_20">
-                                   <a href="mailto:info@auraimmigration.com" data-action="call" class="" style="color:#fecd2a;">info@auraimmigration.com</a>
+                                   <a href="mailto:officeaura2017@gmail.com" data-action="call" class="" style="color:#fecd2a;">officeaura2017@gmail.com</a>
                             </div>
                         </div>
                     </div>
