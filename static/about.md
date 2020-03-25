@@ -17,7 +17,7 @@ description: |
                                         You don't have to worry when we are here, Aura is very famous and always received an appreciation from our clients. we are here in surrey for more than a year and we have experienced staff to help our client.
                                 </p>
                                 <p class="p_16 mb_30 white">
-                                      Our main is focused on getting clients to Canada in the shortest possible time through a variety of avenues, including finding work in Canada.
+                                      Our main focus on getting clients to Canada in the shortest possible time through a variety of avenues, in Canada.
                                 </p>
                         </div>
                     </div>
