@@ -35,18 +35,6 @@ description: |
             <img src="images/services-img2.jpg" class="ui image">
         </div>
       </div>
-<!--       <div class="ui grid centered middle aligned stackable mt_50">
-        <div class="eight wide column">
-            <img src="images/services-img3.jpg" class="ui image">
-        </div>
-        <div class="eight wide column left aligned">
-            <h3 class="p_20">Immigrant Visa Application Processing Assistance</h3>
-                  <div class="mb_20 mt_20"> 
-                    <hr style="max-width:100%;width:45px; border:1px solid #fecd2a;">
-                  </div>
-                <p class="p_16"> This state-of-the-art software is aimed at providing solutions to facilitate the automation of Immigration/Visa application processing by our office. Through this advanced technological software, we intend to create a hassle-free process where gradually the dependency on manual processes is minimized and the tedious process of submitting documents and information to our office as well as our office providing documents and information to you becomes completely automated.</p>
-        </div>
-      </div> -->
       <div class="ui grid centered middle aligned stackable mt_50">
         <div class="eight wide column left aligned">
             <h3 class="p_20">Client Assistance</h3>
