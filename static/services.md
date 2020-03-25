@@ -36,6 +36,9 @@ description: |
         </div>
       </div>
       <div class="ui grid centered middle aligned stackable mt_50">
+        <div class="eight wide column">
+            <img src="images/services-img4.jpg" class="ui image">
+        </div>
         <div class="eight wide column left aligned">
             <h3 class="p_20">Client Assistance</h3>
                   <div class="mb_20 mt_20"> 
@@ -43,14 +46,8 @@ description: |
                   </div>
                 <p class="p_16"> Client Assistance Program provides a direct one-on-one comprehensive information and referral assistance on basic needs and safety net services. Our experienced attorneys assist with obtaining temporary or permanent immigration status for executive, managerial and professional employees, as well as with other immigration-related matters.</p>
         </div>
-        <div class="eight wide column">
-            <img src="images/services-img4.jpg" class="ui image">
-        </div>
       </div>
       <div class="ui grid centered middle aligned stackable mt_50">
-        <div class="eight wide column">
-            <img src="images/services-img5.jpg" class="ui image">
-        </div>
         <div class="eight wide column left aligned">
             <h3 class="p_20">Pre Landing Immigration Services</h3>
                   <div class="mb_20 mt_20"> 
@@ -62,9 +59,15 @@ description: |
                     <li class="p_16">Assist them in preparing resume as per international standard format as required by employers.</li>
                   </ul>
         </div>
+        <div class="eight wide column">
+            <img src="images/services-img5.jpg" class="ui image">
+        </div>
       </div>
       <div class="ui grid centered middle aligned stackable mt_50">
-        <div class="eight wide column left aligned">
+        <div class="eight wide column">
+            <img src="images/services-img6.jpg" class="ui image">
+        </div>
+       <div class="eight wide column left aligned">
             <h3 class="p_20">Post Landing  Immigration Service</h3>
                   <div class="mb_20 mt_20"> 
                     <hr style="max-width:100%;width:45px; border:1px solid #fecd2a;">
@@ -77,9 +80,6 @@ description: |
                   <li class="p_16">Searching for work</li>
                   <li class="p_16">Children school admission</li>
                 </ul>
-        </div>
-        <div class="eight wide column">
-            <img src="images/services-img6.jpg" class="ui image">
         </div>
       </div>
    </div>
