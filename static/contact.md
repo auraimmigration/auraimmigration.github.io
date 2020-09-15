@@ -67,7 +67,7 @@ description: |
                          <i class="clock outline icon"></i>
                         </div>
                         <div class="text_center mt_20">
-                            <div class="p_20 mb_20 theme_green">Opening hours</div>
+                            <div class="p_20 mb_20 theme_green">Office Hours</div>
                             <div class="p_16 mb_20">
                                   Mon-Fri: 10am - 6pm
                             </div>

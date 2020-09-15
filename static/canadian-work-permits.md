@@ -20,18 +20,10 @@ In most cases, in order to work in Canada, the foreign worker will need a work p
 <div class="ui styled accordion">
   <div class="title active">
     <i class="dropdown icon"></i>
-    I am looking for work in Canada 
-  </div>
-  <div class="content active">
-    <p class="transition visible">If you are looking for work in Canada or already have a job offer from a Canadian employer and are unsure of what to do next, Give us a call or  <a href="/contact.html">Contact us</a> for free Assessment of your Application.
-    </p>
-  </div>
-  <div class="title">
-    <i class="dropdown icon"></i>
     I already have a job offer in Canada 
   </div>
-  <div class="content">
-    <p class="transition hidden">If you have a job offer from a Canadian employer and are unsure of what to do next. We would be happy to assist you with the process from beginning to end. Please  <a href="/contact.html">Contact us</a> so we can help you explore your options.</p>
+  <div class="content active">
+    <p class="transition visible">If you have a job offer from a Canadian employer and are unsure of what to do next. We would be happy to assist you with the process from beginning to end. Please  <a href="/contact.html">Contact us</a> so we can help you explore your options.</p>
   </div>
   <div class="title">
     <i class="dropdown icon"></i>

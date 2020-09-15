@@ -7,7 +7,7 @@ permalink: about.html
 description: |
  
 ---
-<div class="ui vertical stripe about_sec" >
+<div class="ui vertical stripe about_sec" style="background-image: url(../images/about-sec.jpg);">
         <div class="ui container">
             <div class="ui grid center-aligned stackable ">
                     <div class="ten wide tablet ten wide computer column sixteen wide mobile">
