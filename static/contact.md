@@ -23,8 +23,8 @@ description: |
                         </div>
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">Address</div>
-                            <div class="p_16 mb_20">
-                                  Unit 271 8128 128<small>th</small> Street Surrey, BC V3W 1R1
+                            <div class="p_16 mb_20 address_contact">
+                                  Unit 213, 12899 80 Avenue <br> Payal Business Centre, <br> Surrey, BC V3W 0E6
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">E-mail</div>
                             <div class="p_16 mb_20">
-                                   <a href="mailto:info@auraimmigration.com" data-action="call" class="" style="color:#fecd2a;">info@auraimmigration.com</a>
+                                   <a href="mailto:officeaura2017@gmail.com" data-action="call" class="" style="color:#fecd2a;">officeaura2017@gmail.com</a>
                             </div>
                         </div>
                     </div>
