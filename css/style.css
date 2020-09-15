@@ -1310,6 +1310,9 @@ header .navbar_header .four.wide.column{
         width: 50%!important;
         text-align: center;
     }
+    .mob_head li.ui.grid p a{
+        word-wrap: break-word;
+    }
     .mob_head li.ui.grid .four {
         padding: 2px!important;
     }
@@ -1332,7 +1335,7 @@ header .navbar_header .four.wide.column{
     }
     .mob_head .pad_t_b{
         padding-left: 10px!important;
-        padding-right: 40px!important;
+        padding-right: 20px!important;
     }
     .mob_head .sixteen a.item {
         width: 130px;
