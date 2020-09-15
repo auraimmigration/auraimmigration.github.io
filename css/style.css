@@ -1609,6 +1609,7 @@ header .navbar_header .four.wide.column{
         text-align: center;
         padding:10px 0;
         position: relative;
+        z-index: 9;
     }
     .top-bar-menu{
         padding: 10px 0;
