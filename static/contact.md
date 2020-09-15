@@ -24,7 +24,7 @@ description: |
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">Address</div>
                             <div class="p_16 mb_20">
-                                  Unit 271 8128 128<small>th</small> Street Surrey, BC V3W 1R1
+                                  Unit 213, 12899 80 Avenue Payal Business Centre, Surrey, BC V3W 0E6, Canada
                             </div>
                         </div>
                     </div>
