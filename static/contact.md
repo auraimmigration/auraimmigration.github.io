@@ -23,8 +23,8 @@ description: |
                         </div>
                         <div class="text_center mt_20">
                             <div class="p_20 mb_20 theme_green">Address</div>
-                            <div class="p_16 mb_20">
-                                  Unit 213, 12899 80 Avenue Payal Business Centre, Surrey, BC V3W 0E6, Canada
+                            <div class="p_16 mb_20 address_contact">
+                                  Unit 213, 12899 80 Avenue <br> Payal Business Centre, <br> Surrey, BC V3W 0E6
                             </div>
                         </div>
                     </div>

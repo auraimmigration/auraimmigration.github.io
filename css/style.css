@@ -1293,6 +1293,9 @@ header .navbar_header .four.wide.column{
     .banner_widget{
         padding: 20px;
     }
+    .address_contact br{
+        display: none;
+    }
     .pad_100{
         padding: 30px 0;
     }
