@@ -1159,6 +1159,7 @@ header .navbar_header .four.wide.column{
     }
     .top-bar-menu{
         padding: 10px 0;
+        display: none;
     }
     .large_icons{
         font-size: 30px;
@@ -1306,11 +1307,15 @@ header .navbar_header .four.wide.column{
     }
     .mob_head li.ui.grid {
         float: left;
-        width: 50%;
+        width: 50%!important;
         text-align: center;
     }
     .mob_head li.ui.grid .four {
         padding: 2px!important;
+    }
+    .mob_head ul.ui.grid{
+        width: 100%;
+        float: none!important;
     }
     .mob_head li.ui.grid .twelve {
         padding: 4px!important;
@@ -1324,6 +1329,10 @@ header .navbar_header .four.wide.column{
     }
     .mob_head li.ui.grid:last-child .twelve {
         padding: 5px!important;
+    }
+    .mob_head .pad_t_b{
+        padding-left: 10px!important;
+        padding-right: 40px!important;
     }
     .mob_head .sixteen a.item {
         width: 130px;
