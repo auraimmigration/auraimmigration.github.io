@@ -203,9 +203,9 @@ a {
     outline: none !important;
     transition:.3s;
 }
-header .navbar_header .four.wide.column{
+/* header .navbar_header .four.wide.column{
     display: none!important;
-}
+} */
 .navbar_header .menu.menu-responsive a.active {
     color: #fecd2a;
 }
