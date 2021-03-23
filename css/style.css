@@ -1302,6 +1302,9 @@ a {
     .banner_widget{
         padding: 20px;
     }
+    .appicon_logo{
+        display:none;
+    }
     .request_callback .seven.wide.computer{
         margin: 0 10px;
     }
