@@ -1302,9 +1302,9 @@ a {
     .banner_widget{
         padding: 20px;
     }
-    .appicon_logo{
-        display:none;
-    }
+   .navbar_header .four.wide.column {
+    display: none;
+}
     .request_callback .seven.wide.computer{
         margin: 0 10px;
     }
